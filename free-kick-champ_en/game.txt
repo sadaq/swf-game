@@ -1,0 +1,15 @@
+Title: Free Kick Champ
+
+Width: 550
+
+Height: 400
+
+Tags: Ball, Football, Sports, Soccer
+
+Description:
+In Free Kick Champ, the objective of the game is to take free kicks and try to get the ball over the defenders and into the goal. Each shot will vary in distance and defender position so you have to adjust your aim each time. Do you have what it takes to become the ultimate football star? Good luck, and have fun!
+
+Instructions:
+&middot; Adjust Anglr and Power = Arrow Keys
+&middot; Kick The Ball = Space Bar
+

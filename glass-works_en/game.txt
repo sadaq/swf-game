@@ -1,0 +1,14 @@
+Title: Glass Works
+
+Width: 615
+
+Height: 500
+
+Tags: Shape, Puzzle, Matching
+
+Description:
+Glass Works is a puzzle game. You must complete the puzzles by placing glass pieces into empty spaces. Fill all the spaces within the time limit to complete the puzzle. Some pieces contain power-ups to help you complete the puzzle or gain a better score. Larger pieces are worth more points. You can drop unwanted pieces into the trash bin to destroy them, but you will lose points for each piece you throw away.
+
+Instructions:
+&amp;middot; &lt;b&gt;Play This Game&lt;/b&gt; = Use Mouse
+

@@ -1,0 +1,14 @@
+Title: Go Green Go
+
+Width: 600
+
+Height: 450
+
+Tags: Alien, Arcade, Spaceship Landing, Platform
+
+Description:
+Go Green Go is an exciting platform game, in which your goal is to land your UFO space ship accurately on the destination platform in every level after passing through dangerous rocky caves. After every level you will receive a password, so you don't need to play the previous levels over again and again. Use skill, patience and good timing to master this wonderful game! Have Fun!
+
+Instructions:
+&middot; Control = Use Arrow Keys
+

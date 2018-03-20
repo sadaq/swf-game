@@ -1,0 +1,17 @@
+Title: Flight 3D Aerobatics Training
+
+Width: 640
+
+Height: 480
+
+Tags: Aeroplane, Flying, Plane, Airplane
+
+Description:
+Flight 3D Aerobatics Training has wonderfully realistic (and challenging) controls. Guiding your plane is not as easy as using the arrow keys to aim your direction -- you'll have to abide by professional air flight physics (down to go up, up to go down, and tilting, rather than steering the plane). It takes some getting used to, but the feeling of flying is amazing!
+
+Instructions:
+Use the arrow keys to fly however remember this is flight controls so
+
+Down Arrow - Pull Up
+Up Arrow - Push Down
+

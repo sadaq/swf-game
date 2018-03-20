@@ -1,0 +1,14 @@
+Title: Gemstone Castle
+
+Width: 550
+
+Height: 400
+
+Tags: Shape, Puzzle
+
+Description:
+Be a hero and rescue the princess in the colorful world of Gemstone Castle! Help the hero to reach the princess by matching the gemstones that are separating them. You get bonuses for huge combinations and finishing the level quickly in this addicting matching game. Always watch out for the time as it will get more difficult to finish in the later levels.
+
+Instructions:
+&amp;middot;&lt;b&gt;Controls&lt;/b&gt;= Use mouse (point &amp; click)
+

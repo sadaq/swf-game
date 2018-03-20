@@ -1,0 +1,16 @@
+Title: Fog Sudoku
+
+Width: 670
+
+Height: 550
+
+Tags: Classic, Puzzle, Sudoku, Number
+
+Description:
+The classic mind-wracking math puzzle game is now online! With a brad new look: the old fashioned news paper style. Fill in each gap with the correct number from 1 to 9. Be careful not to have the same number on a row or column. You have your own scribble pad to help you out in case you need some aid. Start easy at first and go for challenging hard levels afterward for an awesome experience.
+
+Instructions:
+&amp;middot; &lt;b&gt;Select square&lt;/b&gt; - Use the mouse.
+&amp;middot; &lt;b&gt;Switch between pencil/eraser&lt;/b&gt; - Spacebar
+&amp;middot; &lt;b&gt;Input number&lt;/b&gt; - 1 - 9 number keys
+

@@ -1,0 +1,14 @@
+Title: Flipped Out
+
+Width: 480
+
+Height: 480
+
+Tags: Card, Puzzle, Memory
+
+Description:
+Flipped out is a Card based Memory Game.  The aim is to find a specific pair when they have been turned over.  The faster you pick the pair the more points you will get.  The more stages you pass the harder the stages get.  You will get less time to study the cards and have to memorize more sets to choose from.  Try and get the highest score you can and finish all the stages.
+
+Instructions:
+&amp;middot;&lt;b&gt;Controls&lt;/b&gt;= Use Mouse (point &amp; click)
+

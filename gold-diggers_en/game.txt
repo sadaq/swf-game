@@ -1,0 +1,15 @@
+Title: Gold Diggers
+
+Width: 800
+
+Height: 600
+
+Tags: Puzzle, Alien, Business
+
+Description:
+Gold Diggers is an Gold Mining Game. Use your snake like suction machine to exploit all the gold in the mines before the time runs out. The mines are infested by deadly monsters, so dont let them bite your pipes otherwise you will lose the game. On the other hand you can suck them up to clear your way. Also avoid the bombs or they will blow up your pipes.
+
+Instructions:
+&middot; Movements = Arrow Keys
+&middot; Get Back Quickly = Space Bar
+

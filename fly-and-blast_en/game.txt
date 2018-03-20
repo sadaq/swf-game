@@ -1,0 +1,14 @@
+Title: Fly And Blast
+
+Width: 700
+
+Height: 400
+
+Tags: Flying, Scoreboard, Action, Arcade, Shooting
+
+Description:
+Repel the UFO invasion and save humanity in this addictive and challenging side-scrolling shooter! Choose between a Harrier Aircraft, an Apache Longbow or the Prototype Exo Battle Suit and start fighting the aliens! Gain coins from the flying saucers you destroy and improve your armament to defeat even the most difficult bosses!
+
+Instructions:
+Use the mouse for movement and left click to shoot
+

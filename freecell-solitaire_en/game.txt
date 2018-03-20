@@ -1,0 +1,14 @@
+Title: Freecell Solitaire
+
+Width: 640
+
+Height: 480
+
+Tags: Card, Solitaire, Classic
+
+Description:
+Freecell Solitaire is a Card Game. The object of the game is to build up all cards on foundations from Ace to King by following suit. You win when all 52 cards are moved there, 13 to a pile. Use your mouse to move the cards. While playing the game you can only put alternating colors on top of each other, such as black cards on top of red cards. Black on black or red on red will not be accepted.
+
+Instructions:
+The object of the game is to build up all cards on foundations from Ace to King by following suit. You win when all 52 cards are moved there, 13 to a pile. Use your mouse to move the cards.
+

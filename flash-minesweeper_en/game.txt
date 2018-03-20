@@ -1,0 +1,14 @@
+Title: Flash Minesweeper
+
+Width: 560
+
+Height: 420
+
+Tags: Puzzle, Classic
+
+Description:
+Flash Minesweeper is a clone of the Windows game, you must locate all the mines spread over the grid. You start with a grid that is 16x16 squares. Your first click is pure luck whether you hit a mine or not, after that you must use the numbers to decide where the mines are located, and mark them with the spacebar. The numbers will tell you how many mines are near to that particular square.
+
+Instructions:
+&middot; Control = Use Mouse or Space Bar
+

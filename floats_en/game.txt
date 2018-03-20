@@ -1,0 +1,14 @@
+Title: Floats
+
+Width: 430
+
+Height: 600
+
+Tags: Food, Number, Educational
+
+Description:
+Floats is a simple Maths Game. The floats are flying around the game and they have numbers on them. Click on all the floats in an ascending order (from 1, 2, 3 etc etc) to make them disappear, before the time runs out. Dont click on the bombs, as they will reduce your time by 10 seconds. But do however click the sun to gain hundreds of extra points.
+
+Instructions:
+&middot; Play This Game = Use Mouse
+

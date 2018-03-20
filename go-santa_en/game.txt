@@ -1,0 +1,14 @@
+Title: Go Santa
+
+Width: 550
+
+Height: 400
+
+Tags: Sports, Adventure, Skiing
+
+Description:
+Ironically Santa's Sleigh sometimes breaks down and he has to deliver the presents on this skies. So throughout the year Santa perfects his skills on this own private ski slope. Use the arrow keys to help Santa perfect his skiing skills and save Christmas for the poor children. Also, prevent Santa from going off course from the ski path or its game over. Go Santa.
+
+Instructions:
+&middot; Movements = Use Arrow Keys
+

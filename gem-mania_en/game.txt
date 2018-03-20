@@ -1,0 +1,14 @@
+Title: Gem Mania
+
+Width: 760
+
+Height: 420
+
+Tags: Train, Maze, Puzzle, Snake
+
+Description:
+Gem Mania is a Puzzle Game where you have to collect all the gems in your little wooden train, but avoid bumping into your own carriages as your train gets longer with every gem you collect. Try to plan your way through the maze and avoid running out of options. You must have a strategy and problem solving mind as you try to collect all the gems in each level...
+
+Instructions:
+· Navigate Choo Choo Train = Use Arrow Keys
+

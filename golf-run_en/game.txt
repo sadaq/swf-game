@@ -1,0 +1,14 @@
+Title: Golf Run
+
+Width: 600
+
+Height: 400
+
+Tags: Platform, Sports, Mini Putt, Golf
+
+Description:
+Golf Run is a simple Golf style game. There are lots of different levels and to complete each level first you have to hit the ball into the hovering red ring and then land the ball on the pad that appears. To hit the ball first click it and keep your mouse button suppressed down. Then drag you mouse away from the ball and release. There are 3 settings in this game, Easy, Medium and Hard. We reccomend you start with the Easy Mode first. In Medium and Hard Mode, You have a limited number of attempts, so plan your moves carefully and avoid falling off the platforms.
+
+Instructions:
+&middot; Play This Game = Use Mouse
+

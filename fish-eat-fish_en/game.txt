@@ -1,0 +1,14 @@
+Title: Fish Eat Fish
+
+Width: 570
+
+Height: 400
+
+Tags: Water, Matching, Fish, Puzzle
+
+Description:
+Fish eat fish is an interesting game with an entirely different gameplay, the objective is to capture all the fishes of the same color. To capture them, you've to trap them by drawing a boundary around a group of fishes. Once they are trapped they'll merge into each other and grow in size. Keep an eye on the timer at the top and try to complete all the levels. Good Luck!
+
+Instructions:
+· Play This Game = Use Mouse
+

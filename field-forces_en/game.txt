@@ -1,0 +1,16 @@
+Title: Field Forces
+
+Width: 640
+
+Height: 400
+
+Tags: 3D, Soldier, Scoreboard, Military, Army, Shooting, Aiming, Accuracy, War, Simulation
+
+Description:
+In Field Forces, training steps up several gears as you traverse the course and take on your training instructors. Use your ammo wisely and prove to the army that you're the best of the best! SIR... Do you have what it takes to become the ultimate trooper!? Are you the ultimate force? Stay sharp and shoot to kill! 
+
+Instructions:
+W,S,A,D to move
+Mouse to aim
+Left click to shoot.
+

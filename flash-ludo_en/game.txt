@@ -1,0 +1,14 @@
+Title: Flash Ludo
+
+Width: 640
+
+Height: 480
+
+Tags: Classic, 2 Player, Puzzle
+
+Description:
+Flash Ludo is derived from the ancient Indian game "Pachisi", which was originally played with cowries and beehive shaped pieces. The object of the game is for players in turn, to race each other around the circuit to be the first to get all of their counters to the HOME base.Throw a six to release a counter. When counters are knocked off they are returned to their little castle. You will have to roll the correct number of moves to finally win.
+
+Instructions:
+&amp;middot; &lt;b&gt;Play This Game&lt;/b&gt; = Use Mouse
+

@@ -1,0 +1,18 @@
+Title: Gringo Bandido
+
+Width: 640
+
+Height: 480
+
+Tags: Shooting, 3D
+
+Description:
+In Gringo Bandido you walk in the shoes of a fearless cowboy who is trying to protect different areas in the wild west from the evil bandits that terrorize and plunder. The enemies will come from all over so be sharp. Every area that you defend is attacked by a number of bandits that is shown in the bottom right of the screen. Kill them all and a boss will appear that will try to kill you. Defeat him to move further through the game and to unlock new weapons. Kill as many enemies in a row as you can for a high combo and gain a big score. Have fun!
+
+Instructions:
+&amp;middot;&lt;b&gt;Fire weapon&lt;/b&gt;= Left mouse click
+&amp;middot;&lt;b&gt;Navigate character&lt;/b&gt;= WSAD or Arrow keys
+&amp;middot;&lt;b&gt;Throw Molotov&lt;/b&gt;= Space bar
+
+
+

@@ -1,0 +1,14 @@
+Title: Hamster Ball
+
+Width: 600
+
+Height: 440
+
+Tags: Animal, Puzzle, Platform
+
+Description:
+In Hamster Ball, the objective of the game is to move the hamsterball to the orange flag and stop there as quickly as possible. Make sure you avoid the spikes and pitfalls so the poor hamster doesn't die. Make sure you collect the stars on the way for extra points! Do you have what it takes to control the hamster?
+
+Instructions:
+&amp;middot; &lt;b&gt;Movements&lt;/b&gt; = Left or Right Arrow Keys
+

@@ -1,0 +1,15 @@
+Title: Football Rush
+
+Width: 670
+
+Height: 550
+
+Tags: American football, Sports, Football
+
+Description:
+American football, you gotta love it. Pick-up the ball and dodge, bash and dash past the opposition as you run towards your winning touchdown. Things are getting harder? No worries, take advantage of the different power-ups on the field and grab them along the way in order to aid you to victory. Use different tactics to avoid being tackled by your adversaries and you are sure to win each game.
+
+Instructions:
+&amp;middot; &lt;b&gt;Move&lt;/b&gt; - Use the arrow keys.
+&amp;middot; &lt;b&gt;Shake off opponents&lt;/b&gt; - Press spacebar rapidly.
+

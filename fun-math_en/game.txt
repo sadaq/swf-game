@@ -1,0 +1,14 @@
+Title: Fun Math
+
+Width: 640
+
+Height: 530
+
+Tags: Skill, Puzzle, Scoreboard, Logic
+
+Description:
+Math is a great way to boost your overall logic and thinking skills (and one of the most lucrative degrees you can earn!). You'll be faced with a slew of fast-paced math challenges with increasing difficulty. For an added challenge, try the more difficult problems in the upper-right of the screen. You're in a race against time (and your own forgetfulness!).
+
+Instructions:
+Use the mouse to click the answers.
+

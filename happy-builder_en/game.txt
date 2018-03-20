@@ -1,0 +1,14 @@
+Title: Happy Builder
+
+Width: 600
+
+Height: 550
+
+Tags: Puzzle, Scoreboard, Logic, Skill, Physics
+
+Description:
+The title of "Builder of the Year" is up for grabs! Using the mouse to grab the different parts of each building, you'll have to put together increasingly complex creations in record time. Being the best isn't easy -- you'll have to place each piece with both speed and precision if you want to beat this action-based puzzle game!
+
+Instructions:
+Use the mouse in-game to place your objects.
+

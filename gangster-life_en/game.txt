@@ -1,0 +1,17 @@
+Title: Gangster Life
+
+Width: 520
+
+Height: 400
+
+Tags: RPG, Fighting, Driving, Car, 3D, Simulation, Shooting
+
+Description:
+In Gangster Life, the objective of the game is to finish all the missions and stay alive. You just escaped prison and want to make a name for yourself in the criminal world. Use your cunning and underground skills to finish tasks handed down by the boss. Do you have what it takes? Good luck, and have fun!
+
+Instructions:
+&amp;middot; &lt;b&gt;Movements&lt;/b&gt; = W,A,S &amp; D Keys or Arrow Keys
+&amp;middot; &lt;b&gt;Skip Talking / Get In the car&lt;/b&gt; = Space Bar
+&amp;middot; &lt;b&gt;Weapon Select&lt;/b&gt; = 1 - 2 Keys
+&amp;middot; &lt;b&gt;Nitro&lt;/b&gt; = N Key
+

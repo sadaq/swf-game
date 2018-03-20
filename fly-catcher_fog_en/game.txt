@@ -1,0 +1,14 @@
+Title: Fly Catcher
+
+Width: 520
+
+Height: 390
+
+Tags: Food, Strategy, Animal, Puzzle
+
+Description:
+Fly catched is based on a frog which is hungry and there are plenty of flies scattered around to get him fed. The problem is he needs your help to show him where to jump. Using your mouse, you'll guide him with a power jump to collect the flies he needs. Watch out, In the same area with the flies are bottles of frog poison that will kill your frog. You have a limited amount of time to take care of him. Get Hoppin!
+
+Instructions:
+&middot; Play This Game = Use Mouse
+

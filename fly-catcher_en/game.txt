@@ -1,0 +1,15 @@
+Title: Fly Catcher
+
+Width: 550
+
+Height: 400
+
+Tags: Survival, Food
+
+Description:
+This is a very addictive and fun fly eating game. The object of the game is to feed the spider as many flies as you can before the time expires. But remember it's not that easy to catch the flies as they are continuously moving here and there. Make the spider fat and don't lose your appetite (or your lunch) ...Enjoy the game!
+
+Instructions:
+&middot; Move The Spider = Use Mouse
+&middot; Catch The Flies = Use Space Bar
+

@@ -1,0 +1,14 @@
+Title: Flash Bombs
+
+Width: 728
+
+Height: 500
+
+Tags: Puzzle, Matching
+
+Description:
+In Flashbombs, you have to click like a maniac on a bomb to create a chain of explosions of the same colour as that bomb. To score bonus points and get a high score, try to get as many chain explosions as you can, before your time runs out! If you can get the timing right, you’ll be getting multiple chain explosions every second! Hint: the size of the bombs impacts how long it takes for them to explode!
+
+Instructions:
+&amp;middot; &lt;b&gt;Play This Game&lt;/b&gt; = Use Mouse
+

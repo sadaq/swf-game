@@ -1,0 +1,14 @@
+Title: Go Kart 3D
+
+Width: 670
+
+Height: 500
+
+Tags: 3D
+
+Description:
+Get racing in Go Kart 3D. Take on 3 other racers across 4 tracks as you race for the Go Karts 3D championship. Each level will get harder so keep your wits about you when taking corners and straights. Watch out for the other racers, as they seem to think this is a contact sport. Do you have what it takes? Drivers, to your vehicles!
+
+Instructions:
+Use the arrow keys to drive.
+

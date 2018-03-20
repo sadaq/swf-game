@@ -1,0 +1,14 @@
+Title: Four Square II
+
+Width: 800
+
+Height: 600
+
+Tags: Puzzle, Strategy, 2 Player
+
+Description:
+Ever played tic-tac-toe? If you have, then four square comes with a little more challenging goal. Make a square out of four blocks of your color. Each square grants you a number of points. Watch out for the adversary though 'cause he will be trying to do the same thing. Place you squares strategically so that you both block your opponent and complete your square at the same time. Think quick, act quicker!
+
+Instructions:
+Use your mouse to claim a square with your colored gems.
+

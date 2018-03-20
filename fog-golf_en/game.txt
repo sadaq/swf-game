@@ -1,0 +1,16 @@
+Title: FOG Golf
+
+Width: 670
+
+Height: 600
+
+Tags: Scoreboard, Sports, Golf
+
+Description:
+FOG Golf is a 9 and 18 hole Golf Simulation Game. You can choose to play 9 levels or 18 levels. The aim is to complete each course or level with the least number of shots. You can select the type of club you'd like to use from the top menu or you can Click on the caddy to get advice on which club to use and how hard to hit the ball. Tap the spacebar to start the swing, tap again to set the power and once more to strike the ball high or low. There is a mini map and also you can view the full course by using the arrow keys.
+
+Instructions:
+· Navigate the course - Use the arrow keys
+· Determine the power - Press space to begin the movement, again to determine the power.
+· Switch club types - Use 1-4 number keys
+
