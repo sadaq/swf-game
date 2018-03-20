@@ -1,0 +1,15 @@
+Title: Naval Gun
+
+Width: 500
+
+Height: 400
+
+Tags: Flying, Shooting, Water, War
+
+Description:
+Commander of a naval fleet, you find yourself under attack! Many of your officers have been wounded, and it's up to you to fend off the invasion. With a First Person perspective, you're given the task to shoot down any incoming planes, missiles and any other foreign object sent to destroy you. Simple controls make this game easier to dive into!
+
+Instructions:
+&middot; Aim and Fire = Use Mouse (left click button)
+&middot; Reload = R Key
+

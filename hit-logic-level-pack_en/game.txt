@@ -1,0 +1,14 @@
+Title: Hit Logic Level Pack
+
+Width: 640
+
+Height: 480
+
+Tags: Skill, Puzzle, Logic, Physics
+
+Description:
+Hit Logic is back with even more fiendish checker puzzles for you to solve! Get all the red pieces out of the board in the smallest amount of moves, and be careful not to dispose of the other colors! Can you solve all the puzzles or will you give up? Your logic skills will be put to the test in this difficult puzzle game!
+
+Instructions:
+Use the mouse to aim and shoot.
+

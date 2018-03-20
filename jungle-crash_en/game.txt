@@ -1,0 +1,14 @@
+Title: Jungle Crash
+
+Width: 520
+
+Height: 500
+
+Tags: Matching, Puzzle
+
+Description:
+Jungle Crash is a Puzzle Game where you have to try to eliminate the blocks before they reach the top of the screen. To elimintate colors you need to click groups of 3 or more of the same color blocks. New blocks are contsantly adding from the bottom of the game. If any one of the stacks of blocks touches the top then it's game over. You have 10 lives and if you click a group of tiles that is less than 3, you lose one. As the levels progress the game gets harder because the speed of incoming blocks starts to increase.
+
+Instructions:
+· Play This Game = Use Mouse
+

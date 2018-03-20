@@ -1,0 +1,14 @@
+Title: Hungry Piranha
+
+Width: 550
+
+Height: 450
+
+Tags: Managing, Food, Fish, Water, Simulation
+
+Description:
+In Hungry Piranha, you are a small piranha, and you must eat smaller fish than you to grow. You have to eat constantly to sustain power, so always be on the lookout. Always dodge larger fish so you won't become their prey. Do you have what it takes to be the most feared predator in the fresh water food chain?
+
+Instructions:
+&amp;middot; &lt;b&gt;Movements&lt;/b&gt; = Arrow Keys
+

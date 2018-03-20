@@ -1,0 +1,14 @@
+Title: No Halo No Entry
+
+Width: 701
+
+Height: 506
+
+Tags: Mouse, Physics, Accuracy, Puzzle, Aiming, Archery, Aiming
+
+Description:
+No Halo No Entry is an Archery based Puzzle Game. Your mission is to kill all the demons on each level and free the trapped Angels. This game has 24 levels, shoot targets directly, bounce your arrows off objects, or hit items to create a reaction that will end in the bad guys destruction. Rolling balls with spikes and many other interactive objects will appear on different levels.
+
+Instructions:
+Use the the mouse to aim, shoot and control power.
+

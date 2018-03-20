@@ -1,0 +1,16 @@
+Title: Ocean Drift Racing
+
+Width: 670
+
+Height: 600
+
+Tags: Driving, Water, Boat, Racing
+
+Description:
+Ocean Drift Racing challenges you to the ultimate aquatic race! Pit your wits against other motorboat racers, dodging a variety of dangerous obstacles along the way.  Weave your way past rocks, bridges and spectators as you glide the seas on your way to the finishing line.  Be careful, the other racers are in it for keeps, and they'll nudge and bash you out of their way to reach their goal!
+
+Instructions:
+Accelerate - Up Arrow Key
+Decelerate - Down Arrow Key
+Turn left/right - Left/Right Arrow Keys
+

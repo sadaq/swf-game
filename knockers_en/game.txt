@@ -1,0 +1,22 @@
+Title: Knockers
+
+Width: 400
+
+Height: 440
+
+Tags: Platform, Puzzle, Classic
+
+Description:
+Knockers is a Puzzle and Strategy Game. It's game play is influenced by the classic Boulder-dash Game. The game has 40 levels of puzzles to complete. The aim is to collect enough gold in order to proceed to the next level. You get gold by killing the monsters, You kill the monsters by dropping big rocks onto them. You can also kill them by planting explosives. If you get stuck, press the RESTART button.
+
+Instructions:
+· Movements = Use Arrow Keys
+· Dropping & Firing Explosions = Use Space Bar
+
+Game Elements
+
+Dirt can be collected to place Corfs, gold and explosives on it.
+Free Corridor knockers can walk here but, magma may be here and shock wave from explosive pack.
+Corf can be push to free corridor or can be throw on knocker.
+Rock cannot be destroyed at all.
+

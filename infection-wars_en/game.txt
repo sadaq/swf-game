@@ -1,0 +1,14 @@
+Title: Infection Wars
+
+Width: 670
+
+Height: 550
+
+Tags: Skill, Coin, War, Logic, Strategy
+
+Description:
+Infections Wars is a strategy game where it is your job to fight an infection in a human body. The first battle takes place in the nose. Your main base is a tall white and blue tower. All towers produces units for you slowy over time. The number of units is displayed above each building. To get more units you need to claim more towers and make them your own. An un-claimed tower only needs one unit to be claimed by you but to claim the enemies tower you need to send more units into it than it already has. To win a level you have to take over all the bases of the enemy. You have special abilities you can use to help you win and these abilities can be upgraded at the end of each level.
+
+Instructions:
+Use the mouse to drag units from one building to another.
+

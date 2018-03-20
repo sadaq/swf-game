@@ -1,0 +1,14 @@
+Title: New York Taxi License
+
+Width: 670
+
+Height: 600
+
+Tags: Delivery, Car, Taxi, Driving
+
+Description:
+New York Taxi License is a driving game where you learn to drive a taxi in New York! Follow the instructor and drive safe in order to get your ticket to a new job.  This game has a scoreboard, so the quicker you are the higher up the scoreboard you'll be. But by careful as rushing can cause a crash and you'd fail.Great practice for those actually about to do their tests! 
+
+Instructions:
+Arrow keys to drive
+

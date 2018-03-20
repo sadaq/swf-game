@@ -1,0 +1,14 @@
+Title: Luchador Cannon Blast
+
+Width: 640
+
+Height: 480
+
+Tags: Puzzle
+
+Description:
+Match up the mysterious masked Luchador Cannon Blast wrestlers in this exciting match three puzzle game. Fire the Luchadores out of the cannon and make sure they don't collapse the stage. Become a wrestler and enter the arena and challenge increasingly difficult opponents to work your way up to becoming the ultimate wrestler.
+
+Instructions:
+Use the mouse to aim the cannon and left click to fire.
+

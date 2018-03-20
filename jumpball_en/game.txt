@@ -1,0 +1,14 @@
+Title: Jumpball
+
+Width: 500
+
+Height: 390
+
+Tags: Platform, Ball
+
+Description:
+In Jumpball, the goal of the game is to keep your ball bouncing and keep it from falling off the bouncy platforms. Go with the flow and try to get power-ups that will help you control your ball better and avoid the downgrades that will impede your progress! Try and keep your ball in the centre of the screen to avoid the electricity on the sides!
+
+Instructions:
+&amp;middot; &lt;b&gt;Controls&lt;/b&gt; = Arrow Keys
+

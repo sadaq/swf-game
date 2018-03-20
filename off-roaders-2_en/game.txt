@@ -1,0 +1,15 @@
+Title: Off Roaders 2
+
+Width: 640
+
+Height: 450
+
+Tags: Truck, Racing, Driving, 3D, Scoreboard, Car, Simulation
+
+Description:
+Off Roaders 2 is a rare, 3D racing gem! With excellent graphics and a clean interface, this game is very easy to get into! In your race with other truckers, you have to get first place in order to advance to the next stage. The road out there is muddy though, and it won't be easy to guide your truck through it all, so be careful!
+
+Instructions:
+Arrow keys to drive
+P to pause
+

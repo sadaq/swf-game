@@ -1,0 +1,14 @@
+Title: House Of Chocolates HD
+
+Width: 960
+
+Height: 600
+
+Tags: Unity, Puzzle, 3D, Matching
+
+Description:
+House Of Chocolates is a new free tasty match 3 game which will give you a nice taste of some sweet tasting chocolate. Your goal is to match 3 or more chocolates to score points. To complete the levels you will have to fill each board with gold. Use your power up when you can by filling the milk bottle and use your ability to slide the rows around. Keep a close eye on your timer as you have to complete them in the allotted times. Packed with 6 delicious types of chocolates ready for you to match!
+
+Instructions:
+Use your mouse to select two chocolates to switch their position.
+

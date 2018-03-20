@@ -1,0 +1,15 @@
+Title: Lawnmower Racing 3D
+
+Width: 670
+
+Height: 500
+
+Tags: Car, Racing, 3D, Scoreboard, Sports, Action, Arcade, Driving
+
+Description:
+Lawn mowers are great for everything -- from mowing lawns to racing! In this unique new 3D racing game, you'll get behind the wheel of a lawn mower and compete for first place! Advance through the stages for a variety of different raceways from Nashville to Springfield. Enjoy the scenery and smell of fresh-cut grass!
+
+Instructions:
+Arrow keys to drive
+P to pause
+

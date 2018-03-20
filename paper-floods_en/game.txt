@@ -1,0 +1,14 @@
+Title: Paper Floods
+
+Width: 690
+
+Height: 510
+
+Tags: Logic, Skill, Scoreboard, Puzzle
+
+Description:
+Save a dude from drowning in this beautifully stylized doodle game! Clear his path in order for him to float back to the surface and catch some air! Can you solve the intricate puzzles with only the few objects you have at your disposal? Test your logic skills with this challenging and addictive little game!
+
+Instructions:
+Move objects - Use the mouse to drag objects around he screen.
+

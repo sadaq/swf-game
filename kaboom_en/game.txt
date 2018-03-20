@@ -1,0 +1,14 @@
+Title: Kaboom
+
+Width: 550
+
+Height: 470
+
+Tags: Word, Classic
+
+Description:
+Kaboom. This is a game that will keep you on your toes and will require nerves of solid steel. You have a trampoline which you have to use to make sure that the incoming black bombs pass by safely and under no condition must they hit the ground. But at the same time avoid catching the red bombs or you will lose a life.
+
+Instructions:
+&middot; Play This Game = Use Mouse
+

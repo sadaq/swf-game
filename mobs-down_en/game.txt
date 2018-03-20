@@ -1,0 +1,18 @@
+Title: Mobs Down
+
+Width: 600
+
+Height: 450
+
+Tags: Street Fighting, Fighting, Martial Arts
+
+Description:
+Walk through the streets and fight the local gangs and take the Mobs Down! This flash game has incredibly realistic graphics, a good quality environment and an intricate combat system with various amounts of combos. Pick up and throw items like garbage cans to give yourself an edge on the streets. Fight against a large variety of gangs in the deep story line as you progress through the levels. 
+
+Instructions:
+&middot; Movements = Arrow Keys
+&middot; Jump = Space Bar
+&middot; Kick = X Key
+&middot; Punch = C Key
+&middot; Pick = V Key
+

@@ -1,0 +1,16 @@
+Title: Metal Wall
+
+Width: 600
+
+Height: 500
+
+Tags: Puzzle, Water, Strategy
+
+Description:
+Metal Wall is a very challenging puzzle game in which you have to move fast and accurately to make it to the finish. The objective of the game is to pass your stick through the puzzle without touching the wall in any way. You must time your moves and you must be fast, any mistake will end one life. You have a timer in the top left hand corner of the screen which will show you the time left to finish every puzzle. Be quick and sharp to make it to the end. Good luck!
+
+Instructions:
+&amp;middot;&lt;b&gt;Navigate&lt;/b&gt;= Use arrow keys
+
+
+

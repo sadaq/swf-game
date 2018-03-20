@@ -1,0 +1,14 @@
+Title: Mini Pool 3
+
+Width: 570
+
+Height: 470
+
+Tags: Pool, Sports, Billiards
+
+Description:
+Mini Pool 3 is a different kind of pool game. It has the same mechanisms as regular pool, but not the same rules. In this game all the balls have a timer attached to them. You must pot all the balls before the timers counts down to zero. Try to pocket the pink one first, as it starts with less time than the others and remember that the quicker you clear the table the more points you will earn. If you pocket the white ball you lose 50 points.
+
+Instructions:
+&middot; Play This Game = Use Mouse
+

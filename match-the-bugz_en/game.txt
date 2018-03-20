@@ -1,0 +1,14 @@
+Title: Match The Bugz
+
+Width: 560
+
+Height: 420
+
+Tags: Puzzle, Matching
+
+Description:
+Match the Bugz is a Puzzle Game where you have to swap the different bugs and try to match 3 or more of the similar bugs in a row to make them disappear. You must eliminate the required number of bugs from the grid, before the time runs out in order to proceed to the next level. The more bugs you eliminate the more points you'll get. But watch out for the bombs, because of you match 3 bombs in a row then you'll lose points.
+
+Instructions:
+· Play This Game = Use Mouse
+

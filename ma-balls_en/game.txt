@@ -1,0 +1,15 @@
+Title: Ma Balls
+
+Width: 550
+
+Height: 400
+
+Tags: Urban Sports, Ball, Sports
+
+Description:
+Ma Balls is a fast paced sports game. Using the arrow keys run around pushing the balls of different Sports Game as they start bouncing, before the time runs out. Then as they start rolling you need to dodge your way in between the rolling balls and collect the bonus items appearing from time to time. But if you get hit by a rolling ball then you lose a life so be careful and also remember to grab the power-ups. The longer you survive amongst the balls the more points you will earn. A tip for this game is to keep a look out for the hearts, these will gain you extra lives.
+
+Instructions:
+&middot;Navigate character= Use arrow keys
+
+

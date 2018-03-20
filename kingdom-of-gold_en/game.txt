@@ -1,0 +1,15 @@
+Title: Kingdom Of Gold
+
+Width: 550
+
+Height: 400
+
+Tags: Adventure, Quest, Maze
+
+Description:
+The objective of the game is to try to find the hidden treasure. There are a lot of obstacles, spikes and spear traps in the cave to ward off robbers so be careful! A tip would be to watch out for glyphs as they may provide clues. Check what every switch does and see how they should be used. Do you have what it takes to finish? 
+
+Instructions:
+&amp;middot; &lt;b&gt;Movements&lt;/b&gt; = Arrow Keys
+&amp;middot; &lt;b&gt;Jump&lt;/b&gt; = Space Bar
+

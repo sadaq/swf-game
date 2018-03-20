@@ -1,0 +1,15 @@
+Title: No Mutants Allowed
+
+Width: 640
+
+Height: 530
+
+Tags: Shooting, Defense, Action
+
+Description:
+No Mutants Allowed is a challenging, frantic, fast-paced action game! After a post-nuclear breakout, mutants are emerging from their depths, crawling to the surface and rampaging across the desert towards the city! Defend your base, using your best shooting skills, building up a small army, and learning new abilities. The safety of the city is on your shoulders!
+
+Instructions:
+Aim and fire - Move the mouse cursor over an enemy.
+Special attacks - 1, 2, and 3 numbers keys
+

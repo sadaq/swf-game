@@ -1,0 +1,8 @@
+Mario Alien Invaders
+Mario World is once again under attack. Mario should save the world this time against aliens invaders.
+
+How to play:
+Arrow keys to move and jump, key 'C' to shoot.
+
+Size:
+640x500

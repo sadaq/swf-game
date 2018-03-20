@@ -1,0 +1,15 @@
+Title: Ninja Rampage
+
+Width: 650
+
+Height: 440
+
+Tags: Ninja, Killing, Stealth, Sword Fighting
+
+Description:
+Ninja Rampage is a Ninja Sword Fighting Game. The aim of this game is to get through each level undetected and killing all the samurai guards. Try and stay hidden until the guards look away, then pounce quickly and kill them. They will only attack if they see you coming. You can use certain items to distract them, like gongs and lanterns.  Look out for spikes and traps, these will not only kill you but you can also lure enemy units into these.
+
+Instructions:
+&amp;middot; &lt;b&gt;Movements&lt;/b&gt; = Arrow Keys
+&amp;middot; &lt;b&gt;Attack&lt;/b&gt; = A,S &amp; D Keys
+

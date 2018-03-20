@@ -1,0 +1,15 @@
+Title: Paper Flight
+
+Width: 500
+
+Height: 300
+
+Tags: Strategy, Adventure, Flying, Puzzle, Simulation
+
+Description:
+In Paper Flight, the objective of the game is to fly the paper aeroplane through the levels by switching fans and other appliances on and off. Try to control your speed depending on how far the next obstacles are. Be careful of flames and other things that are sure to put a stop to your progress. Let's get flying.
+
+Instructions:
+&amp;middot; &lt;b&gt;Turn On / Off The Fan or Appliances&lt;/b&gt; = Mouse (point and click)
+&amp;middot; &lt;b&gt;Pause And Look Around&lt;/b&gt; = Space Bar
+

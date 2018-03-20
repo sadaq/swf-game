@@ -1,0 +1,15 @@
+Title: Journey to the East
+
+Width: 600
+
+Height: 400
+
+Tags: Quest, Ninja, Medieval, Fighting, Upgrade, Sword Fighting
+
+Description:
+Jump into battle in Journey to the East. try to survive by killing enemies from all over the globe. Visit countries around the world and fight with their warriors until you reach your destination. You gain experience and gold every time you fight so use them to buy new equipment to better battle your foes. It gets harder every time so always keep your equipment in top shape, you never know how the fight will do so best be prepared.
+
+Instructions:
+&amp;middot; &lt;b&gt;Movements&lt;/b&gt; = Use Arrow Keys
+&amp;middot; &lt;b&gt;Attack / Kick / Defend = A, S, D Keys
+

@@ -1,0 +1,16 @@
+Title: Overlord
+
+Width: 728
+
+Height: 500
+
+Tags: Flight Simulator, Aircraft, War, Flying, Airplane, Aeroplane
+
+Description:
+This is an advanced Airplane War Simulation Game where, you are the pilot of a fighter jet and your mission is to defend your navy's military carrier at sea. The enemy has launched a massive assault and you must clear the land, sea and air of all hostile activity. Shoot down the enemy planes and destroy their tanks and battalions. Keep an eye on the damage bar of your plane as well as the carrier. You can land on the carrier to get more ammunition and your fix your damaged plane. There are lots of levels to complete, but I simply enjoy flying the plane around.
+
+Instructions:
+· Fly Your Plane = Arrow Keys
+· Fire Bullets = Space Bar
+· Fire Special Weapon = Ctrl Key
+

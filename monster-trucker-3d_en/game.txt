@@ -1,0 +1,16 @@
+Title: Monster Trucker 3D
+
+Width: 640
+
+Height: 450
+
+Tags: Truck, Drawing, Racing
+
+Description:
+Nothing puts on a show like a stampede of Monster Trucks tearing up the terrain!  Bash your opponents into submission as you race towards the finishing line, flattening cars, flying over insane ramps, and navigating rough tracks!  It's every man for himself, so watch your back if you want any chance of coming out on top!
+
+Instructions:
+Up arrow key: Accelerate
+Down arrow key: Slow down/reverse
+Left/right arrow keys: Turn left/right.	
+

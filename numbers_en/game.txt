@@ -1,0 +1,14 @@
+Title: Numbers
+
+Width: 560
+
+Height: 420
+
+Tags: Number, Puzzle, Educational
+
+Description:
+Number is a Maths Game that will get your brain into gear. The aim of the game is to clear the board of all the numbers as quickly as possible.  A number appears on the right of the screen and you need to eliminate any number of blocks that add up to the number. The game is over when you can no longer make the number on your right with the numbers on the game board. Or if you clear the game and there are no numbers left on the board.
+
+Instructions:
+· Play This Game = Use Mouse (point and click)
+

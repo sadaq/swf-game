@@ -1,0 +1,14 @@
+Title: Mini Parking 3D
+
+Width: 580
+
+Height: 450
+
+Tags: 3D, Car, Driving, Parking
+
+Description:
+In Mini Parking 3D, it is time to test your driving skills in this quirky parking game. Drive the various vehicles to the flashing parking bay and park them without crashing! Choose from different cool levels, avoid the traffic, and get it right! Great practice and help for learner drivers out there!
+
+Instructions:
+Arrow keys to drive.
+

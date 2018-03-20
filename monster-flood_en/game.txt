@@ -1,0 +1,16 @@
+Title: Monster Flood
+
+Width: 640
+
+Height: 530
+
+Tags: Shooting, Scoreboard, Survival, Halloween
+
+Description:
+The Government's top secret facility has been compromised and a deadly virus has turned everyone into zombies! Everyone except General Jack Hardman. Blast your way through waves of zombies that keeps on growing. Upgrade your arsenal as you go and discover more ways to eliminate the flood of zombies. Like pistols, shotguns, machine guns, grenades and etc. Overall Aim of the game is to see how long you can survive.
+
+Instructions:
+· Move - Arrow keys
+· Shoot - Spacebar
+· Switch weapons - Number keys
+

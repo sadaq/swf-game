@@ -1,0 +1,14 @@
+Title: Mole Mines
+
+Width: 640
+
+Height: 480
+
+Tags: Puzzle, Skill, Logic
+
+Description:
+A fun twist on the classic PC game Minesweeper! This game has the unusual challenge of hexagonal pieces. Each number you uncover will tell you how many mine holes there are in the surrounding pieces -- but don't let the mole fall into the mine shafts! Use the shift key to mark mines and keep the mole safe! Clear the board to win!
+
+Instructions:
+Click on the tiles to progress on the board, hover over a tile and press a key on the keyboard if you suspect that tile to contain a mine. Clear the board without hitting a mine to win.
+

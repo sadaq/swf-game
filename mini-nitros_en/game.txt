@@ -1,0 +1,15 @@
+Title: Mini Nitros
+
+Width: 400
+
+Height: 350
+
+Tags: Racing, Car, Driving
+
+Description:
+Mini Nitros is a Racing Game, where you can drive a Mini Cooper through various tracks and try to reach the finish line in the fastest time possible. You can activate Nitro to boost your speed on long straight road segments by pressing the space bar. Avoid hitting the sides of the road, as it will slow you down.
+
+Instructions:
+&middot; Controls = Use Arrow Keys
+&middot; Activate Nitro = Space Bar
+

@@ -1,0 +1,19 @@
+Title: Ninja Training Worlds
+
+Width: 736
+
+Height: 850
+
+Tags: Adventure, Platform, Ninja, Keyboard, Jumping, Collecting, Action
+
+Description:
+Ninja Training Worlds is a side-scrolling action platform game in which you need to complete a series of ancient Ninja challenges. Guide your Ninja through each challenge by dodging and defeating enemies, jumping from wall to wall, dashing under spikes and collecting gold coins. You'll need to collect all gold coins and defeat all of the enemies to get the highest score!
+
+Instructions:
+A and D to move left and right.
+W and S to move up and down ladders.
+Space to jump.
+Press Space twice to double jump.
+P to Pause.
+M to Mute.
+

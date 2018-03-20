@@ -1,0 +1,15 @@
+Title: Ice Hockey
+
+Width: 650
+
+Height: 480
+
+Tags: Sports, Hockey
+
+Description:
+Ice Hockey is a sports game. Take control of your three team members and score as many goals as you can. There is a three minute time limit. You can carry the puck yourself or pass it to a team member. Every member can move around the rink even the goalkeeper. You will be able to automatically control your player closest to the puck.
+
+Instructions:
+&amp;middot; &lt;b&gt;Movements&lt;/b&gt; = Arrow keys
+&amp;middot; &lt;b&gt;Hit / Push&lt;/b&gt; = Space Bar
+

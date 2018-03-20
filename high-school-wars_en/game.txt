@@ -1,0 +1,17 @@
+Title: High School Wars
+
+Width: 640
+
+Height: 480
+
+Tags: RPG, War, Fighting, Strategy, Defense, Point and Click
+
+Description:
+High School has always been tough. Now, throw in the fact that fighting between the gangs is okay and given permission. Out of 4 gangs, pick the one you want to control. Select each one and navigate via point & click to attach the other gang members. Attempt to have your gang as the final gang standing, and become the kings of your High School!
+
+Instructions:
+&amp;middot; &lt;b&gt;Select a gang member&lt;/b&gt; - Left click on a to select, left click, hold and drag a box around several members to select a group.
+&amp;middot; &lt;b&gt;Move gang member(s)&lt;/b&gt; - Left click on the spot you wish to move the members to.
+&amp;middot; &lt;b&gt;Take over enemy territories&lt;/b&gt; - Move your gang memebers over the enemy gang territories.
+&amp;middot; &lt;b&gt;Fight enemies&lt;/b&gt; - Move your gang memebers over to an enemy gang member
+

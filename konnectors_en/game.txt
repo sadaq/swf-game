@@ -1,0 +1,14 @@
+Title: Konnectors
+
+Width: 680
+
+Height: 520
+
+Tags: Car, Driving, Puzzle, Building
+
+Description:
+Konnectors is game driving game where you are in charge of the road not the vehicle. The aim of the game is to build a road to connect two locations together while working on a tight schedule. Build an unobstructed road from the start to finish, using the correct road pieces, to complete the level. But sometimes you may have to stop at gas stations to fuel up. If you have built the track with time to spare, you can always increase your points by pressing the "speed" button.Try not to panic!
+
+Instructions:
+&middot; Play This Game = Use Mouse
+

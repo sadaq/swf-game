@@ -1,0 +1,17 @@
+Title: Mountain Bike
+
+Width: 500
+
+Height: 400
+
+Tags: Sports, Racing, Physics, BMX, Bike, Urban Sports, Stunt
+
+Description:
+Mountain Bike is a side scrolling physics game, Ride your BMX bike through the countryside and reach the end of the track before your energy bar reaches zero. Try to keep your bicycle upright as you pedal through various hazards, like ramps, tree stumps, and rocks. The energy pills that you pick up along the way will fill the energy bar back up a little.
+
+Instructions:
+&amp;middot; &lt;b&gt;Pedal&lt;/b&gt; - Up Arrow Key
+&amp;middot; &lt;b&gt;Slow Down&lt;/b&gt; - Release Up Arrow Key
+&amp;middot; &lt;b&gt;Lean Forward / Backward&lt;/b&gt; - Left or Right Arrow Keys
+&amp;middot; &lt;b&gt;Brake&lt;/b&gt; - Down Arrow Key
+

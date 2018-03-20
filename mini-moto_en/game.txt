@@ -1,0 +1,14 @@
+Title: Mini Moto
+
+Width: 570
+
+Height: 440
+
+Tags: Racing, 3D, Motorbike
+
+Description:
+Mini Motos are fully working mini motor bikes. You will race against some of the best mini moto riders in the world. There are many tracks that you need to race on and can only move onto the next track if you win a race. Avoid the oil slicks on the track or you will spin out of control and seriously fall behind. Race over the green arrows to get an extra speed boost that you can use to catch up to your opponents, or give yourself a bigger lead.
+
+Instructions:
+&middot; Controls = Use Arrow Keys
+

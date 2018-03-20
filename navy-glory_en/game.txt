@@ -1,0 +1,20 @@
+Title: Navy Glory
+
+Width: 600
+
+Height: 450
+
+Tags: Battleship Style, Shooting, Scoreboard
+
+Description:
+Navy Glory is a Defense Game set in the sea. You have to defend your warship as you return home from the victorious war! In a last ditch attempt to changes the outcome of the war, the Blue Army is desperately attempting at sinking you. They are attacking using hordes of enemy ships, planes and submarines! Use three different weapons and power ups to survive the long trip back.
+
+Instructions:
+Use the mouse to aim your cannons, left click to shoot.
+
+A - Anti Ship cannon
+
+S - Anti Air Cannon
+
+D - Anti Submarine Torpedos
+

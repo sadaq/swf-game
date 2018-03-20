@@ -1,0 +1,15 @@
+Title: Micro Tanks
+
+Width: 680
+
+Height: 580
+
+Tags: Physics, Shooting, Tank, Strategy
+
+Description:
+In Micro Tanks You control of a tank that shoots bouncing shells. The game is set in complicated maze like arenas. The idea is to bounce the shells off the walls and destroy enemy tanks. Be careful as your own shells can bounce back and hit you. One tactic is to corner the enemy tanks into a tight spot and then ambush them with heavy firing. There is a 2 player option in this game.
+
+Instructions:
+&middot;Navigate tank= Use arrow keys
+&middot;Shoot= Use Space bar
+

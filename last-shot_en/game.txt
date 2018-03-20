@@ -1,0 +1,18 @@
+Title: Last Shot
+
+Width: 650
+
+Height: 500
+
+Tags: Stealth, Shooting
+
+Description:
+Last Shot is a Stealth Shooting Game set in a modern time war zone.  Your mission is to infiltrate a secret weapons laboratory. Progress through the levels by shooting the enemies and hiding behind obstacles. Health packs, weapons and armour can be collected when needed. Be careful not to acidentally kill any hostages that will appear in various areas throughout the game.
+
+Instructions:
+&amp;middot; &lt;b&gt;Movements&lt;/b&gt; = W,A,S &amp; D Keys
+&amp;middot; &lt;b&gt;Change Weapons&lt;/b&gt; = 1 - 4 Keys
+&amp;middot; &lt;b&gt;Aim and Shoot&lt;/b&gt; = Use Mouse
+&amp;middot; &lt;b&gt;Reload&lt;/b&gt; = R Key
+&amp;middot; &lt;b&gt;Throw Away Gun&lt;/b&gt; = G Key
+

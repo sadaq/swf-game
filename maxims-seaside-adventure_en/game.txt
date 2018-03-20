@@ -1,0 +1,14 @@
+Title: Maxims Seaside Adventure
+
+Width: 600
+
+Height: 400
+
+Tags: Dog, Adventure, Animal
+
+Description:
+You take Maxim, your pet dog to the beach. Help Maxim to ride his skateboard along the beach and collect as many bones as possible. There are obstacles sticking out everywhere though, that will knock you off your board, you must duck and jump to avoid them and get as far as you can. Oh, and watch out for the beach balls and nasty bulldogs.
+
+Instructions:
+&middot; Movements = Use Arrow Keys
+

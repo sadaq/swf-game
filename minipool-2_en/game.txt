@@ -1,0 +1,14 @@
+Title: Mini Pool 2
+
+Width: 570
+
+Height: 420
+
+Tags: Sports, Pool, Billiards, Ball
+
+Description:
+The aim of this mini pool game is to pot all of the balls as fast as you can, the pink ball is the first ball that has it's timer run out, so try to pot that first, after that you must pot all of the red balls in order to finish the pool game. The clock is ticking, so hurry up and get to potting those pool balls!
+
+Instructions:
+· Play This Game = Use Mouse
+

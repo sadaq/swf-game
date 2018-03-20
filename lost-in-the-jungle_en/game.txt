@@ -1,0 +1,15 @@
+Title: Lost In The Jungle
+
+Width: 650
+
+Height: 500
+
+Tags: Shooting, Stealth, Killing
+
+Description:
+Help your brave soldier, Lost In The Jungle to find a way out from this enemy infested place. Shoot and kill militants in every level to progress to the next. To complete your mission successfully, you need to be very quick in attack as they will not give you much opportunity if you wasted a single second. Keep an eye on the bullet status and wait for a while during auto reload. Also grab extra power ups such as health kits for your survival.
+
+Instructions:
+&middot; Movements = Arrow Keys
+&middot; Shoot = Use Mouse
+

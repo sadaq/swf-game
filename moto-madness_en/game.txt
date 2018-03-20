@@ -1,0 +1,15 @@
+Title: Moto Madness
+
+Width: 550
+
+Height: 420
+
+Tags: Racing, Motorbike, Bike, X, Sports
+
+Description:
+Moto Madness may remind you of those classic bike racing games, from the days of playing in arcades. The objective of this game is simple and straight forward. Literally! 
+You need to make the best lap time if possible, and take the number one spot, or you will lose. To do this you need speed and control, so are you insane enough to beat Moto madness?
+
+Instructions:
+&amp;middot;&lt;b&gt;Navigate Vehicle&lt;/b&gt;= Use Arrow keys 
+

@@ -1,0 +1,14 @@
+Title: Monster Truck 3D Reloaded
+
+Width: 640
+
+Height: 530
+
+Tags: Driving, Scoreboard, Car, Simulation, Racing
+
+Description:
+Monster trucks have never been for the weak-of-heart, and it just got a little more extreme. Drive your monster truck through an insane series of levels from hundreds of miles above the ground! Don't fall off the edges or you'll land on some unsuspecting citizens. Fly off ramps and do monster acrobatics to get to the finish line -- and that's just the first level!
+
+Instructions:
+Arrow Keys to drive.
+

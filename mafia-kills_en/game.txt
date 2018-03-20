@@ -1,0 +1,15 @@
+Title: Mafia Kills
+
+Width: 960
+
+Height: 600
+
+Tags: Action, Shooting, Accuracy
+
+Description:
+Mafia Kills is a physics-based 2D shooting game where you fire super-bouncy bullets to eliminate all the bad Mafia guys in each level. You have limited number of bullets in each round so, try to kill as many Mafiosos as possible with each single bullet to score maximum points. Please remember that you will lose level if your bullet runs out. There are 25 Levels to complete.
+
+
+Instructions:
+Use mouse to shoot
+

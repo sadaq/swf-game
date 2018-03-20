@@ -1,0 +1,14 @@
+Title: Mini Putt 3
+
+Width: 550
+
+Height: 400
+
+Tags: Sports, Mini Putt, Golf
+
+Description:
+Mini Putt 3 is the 3rd installment in the popular Mini Putt (Mini Golf Game) series. The aim of the game is to complete all levels in as few strokes as possible. There are a total of 18 levels in this game. A score card is shown after each level is completed. The physics of the game is quite realistic. There are lots of object to make the game difficult and enjoyable, for example bounce pads, windmills, water, grass and mini hills.
+
+Instructions:
+&middot; Play This Game = Use Mouse
+

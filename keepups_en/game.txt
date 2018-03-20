@@ -1,0 +1,14 @@
+Title: KeepUps
+
+Width: 800
+
+Height: 600
+
+Tags: Simulation, Ping Pong, Sports
+
+Description:
+KeepUps is a digital reincarnation of the classic skill game!  Try to keep the ball up in the air as long as you can and test your sense of balance and accuracy to the limit!  Be careful, however!  If the racket goes out of the circle, or if you drop the ball, you lose!  So keep your cool, keep your eye on the ball, and be quick on the mark!
+
+Instructions:
+&middot; Play This Game = Use Mouse
+

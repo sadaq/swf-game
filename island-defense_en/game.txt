@@ -1,0 +1,14 @@
+Title: Island Defense
+
+Width: 520
+
+Height: 390
+
+Tags: Defense, Jumping, Shooting
+
+Description:
+Defend your little island from the enemy paratroopers for as long as you can. You have the power to control the wind! So, make the enemies fall in the sea and perish. Use your weapons on the enemies and kill them before they reach the island. The scissor tool will let you cut their parachute cords! Try to survive for as long as you can.
+
+Instructions:
+&middot; Play This Game = Use Mouse
+

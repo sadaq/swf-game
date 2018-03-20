@@ -1,0 +1,14 @@
+Title: Ninja Pop
+
+Width: 640
+
+Height: 480
+
+Tags: Strategy, Puzzle, Ninja, Physics, Ball
+
+Description:
+If you like a challenge you will surely love our Ninja Pop game. A simple but tricky game which puts all your abilities to the test. The game play is simple, you are a mini ninja that needs to pop as many bubbles as possible. The game is structured with 26 levels but to pass from one level to another you must hit the required amount of bubbles. Every bubble has a special ability so try to use them all to see what each of them do. Ninja Pop is a challenging game for all ages.
+
+Instructions:
+&amp;middot; &lt;b&gt;Hit Bubbles&lt;/b&gt; = Mouse (point and click)
+

@@ -1,0 +1,17 @@
+Title: Lucky Balls
+
+Width: 560
+
+Height: 420
+
+Tags: Matching, Marble, Puzzle
+
+Description:
+Lucky Balls is a colorful Puzzle Game. The aim is to eliminate all the colorful balls rolling down the spiral tube, before they reach the skull. You can eliminate them by shooting a ball from the center and group 3 or more balls of the same color.
+
+The degree of difficulty rises as you proceed further.
+
+Instructions:
+Move your Mouse to set the direction and Left Click to shoot a ball. Good Luck and enjoy...
+
+

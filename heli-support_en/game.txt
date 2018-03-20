@@ -1,0 +1,14 @@
+Title: Heli Support
+
+Width: 670
+
+Height: 605
+
+Tags: Aircraft, Flight Simulator, Accuracy, Puzzle, Puzzle, War, Scoreboard, Simulation, Physics
+
+Description:
+Heli Support is a physics based helicopter game. You must airlift objects and place them carefully to build a path for the tanks, or any other army vehicles. There are 12 levels, all with increasing difficulty. Keep an eye on your fuel meter too, as if you run out of fuel, your helicopter will crash and you’ll fail the level. You can refuel by flying back to your base and landing gently. The controls for the ropes are a bit hard to master at first, but after some practice you'll soon become a pro at using them.
+
+Instructions:
+A and S to drop magnets, Q and W to take them back up and mouse to fly.
+

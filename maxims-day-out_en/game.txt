@@ -1,0 +1,14 @@
+Title: Maxims Day Out
+
+Width: 600
+
+Height: 400
+
+Tags: Sports, Animal, Dog
+
+Description:
+Maxim is your pet puppy and he loves playing catch in the park. Today you have to make Maxim ride a skateboard and jump into the air, to catch the frisbees flying by. You have 2 minutes to try and grab as many frisbees as you can. Move the skateboard around and time his jump accurately, and Maxim will catch the frisbee for you. The longer you press the up arrow key the higher Maxim will jump.
+
+Instructions:
+&middot; Movements = Use Arrow Keys
+

@@ -1,0 +1,17 @@
+Title: Jungle Assassin
+
+Width: 640
+
+Height: 500
+
+Tags: Killing, Climbing, Strategy, Stealth
+
+Description:
+Jungle Assassin where you destroy everyone that stands in your way. Stealth is the key to becoming a true Jungle Assassin. Kill all the hostile enemies while remaining hidden. Use the terrain to your advantage and always try to stab them in the back so your presence will not be felt. You can grip ledges and climb walls, make sure you time it right as you will be killed yourself, if they spot you.
+
+Instructions:
+&amp;middot;&lt;b&gt;Navigate Character&lt;/b&gt;= Arrow Keys 
+&amp;middot;&lt;b&gt;Swipe Knife&lt;/b&gt;= Spacebar
+
+
+

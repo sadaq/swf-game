@@ -1,0 +1,17 @@
+Title: Material Mole 3
+
+Width: 640
+
+Height: 480
+
+Tags: Car, Driving, Simulation, Delivery
+
+Description:
+Ever wonder what moles do all day underground? Collect gems, of course! In this side-scrolling action-puzzle game, you have to help the moles collect gems in their underground carts. Speeding through the tight caves may make you flip over, so you'd better be careful. Using space-bar to switch the path you take, you can advance though the levels in a variety of ways! Every game in this action-puzzler is different!
+
+Instructions:
+Use the arrow keys to drive.
+Shift to drop treasure.
+Space to toggle gates.
+Z to speed up.
+

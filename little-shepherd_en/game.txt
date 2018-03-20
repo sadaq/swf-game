@@ -1,0 +1,15 @@
+Title: Little Shepherd
+
+Width: 600
+
+Height: 500
+
+Tags: Puzzle, Strategy, Animal
+
+Description:
+A Simulation Game where you are a young shepherd who takes part in the Annual Sheep Herding competition.
+The competition becomes difficult as you proceed further so you have to utilize all your skills to win the competition. You must take all your sheep into the fence before the time runs out. Look out for all the dangers and avoid your sheep from getting killed or you will lose the level. Good Luck.
+
+Instructions:
+·Controls= Use mouse (point & click)
+

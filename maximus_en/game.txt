@@ -1,0 +1,14 @@
+Title: Maximus
+
+Width: 550
+
+Height: 440
+
+Tags: Archery, Target Practicing, Army, Medieval
+
+Description:
+In Maximus the objective of this flash game is to hit the middle of the targets before the time runs out. This is a trial and error physics game so try out different angles and spears to try and hit the targets. The further the target, the lighter the spear needed. Do you have what it takes? Prove it.
+
+Instructions:
+&amp;middot; &lt;b&gt;Play This Game&lt;/b&gt; = Use Mouse
+

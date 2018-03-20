@@ -1,0 +1,14 @@
+Title: Master Checkers
+
+Width: 400
+
+Height: 400
+
+Tags: Puzzle, Classic
+
+Description:
+Master Checkers is an online simulator of the classic Checkers Board Game. The aim of the game is to capture all of your opponents pieces, or block them so that they cannot move. You are playing against the Computer. Each player begins the game with 12 colored discs. (One blue set & the other red). Blue moves first. For the exact and full rules of the game, it's best to Search on Google: How to Play Checkers.
+
+Instructions:
+· Play This Game = Use Mouse
+

@@ -1,0 +1,14 @@
+Title: Mushroom Farm Defender
+
+Width: 550
+
+Height: 500
+
+Tags: Animal, Strategy, Tower Defense, Defense, Upgrade, Shooting
+
+Description:
+In Mushroom Farm Defender you have to think strategically and place mushroom along the pathway you enemies walk. Your mushrooms will automatically defend your farm by shooting at the enemies. The more enemies your mushrooms kill the more money you make and thus having more money for upgrades and adding more mushrooms to defend your farm. You also have elements you can add yo your mushroom which will enhance their attacks based on which element you choose.
+
+Instructions:
+&amp;middot; &lt;b&gt;Drag and Place Mushroom in Desired Position&lt;/b&gt; = Mouse (point and click)
+

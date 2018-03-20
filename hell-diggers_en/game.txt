@@ -1,0 +1,15 @@
+Title: Hell Diggers
+
+Width: 560
+
+Height: 610
+
+Tags: Puzzle, Scoreboard
+
+Description:
+Help the Hell Diggers get their gold back to the surface in this difficult puzzler! Dig around the blocks of gold with your miners and push them on your vehicle to get them out of the cave. Can you find the perfect way to retrieve all the precious ore? Test your logic with this old-style little game!
+
+Instructions:
+Move characters - Click on character and drag
+Dig - Drag the cursor over the surface
+

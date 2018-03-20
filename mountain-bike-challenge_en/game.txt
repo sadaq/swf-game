@@ -1,0 +1,18 @@
+Title: Mountain Bike Challenge
+
+Width: 670
+
+Height: 430
+
+Tags: Physics, Sports, Urban Sports, Bike, BMX, Stunt
+
+Description:
+Mountain Bike is a game in which your mission is to ride over the mountain top strategically and reach from point A to point B. This may sound easy, but it's all in your riding strategy. This is a straight forward game, but requires great skills to play. The mountain terrain is rough so you better start peddling. Lean left and right to balance your ride and overtake the obstacles in your way to become the best.
+
+Instructions:
+&middot; Pedal Forward - Up arrow key
+&middot; Pedal Backwards - down arrow key
+&middot; Lean Backwards - left arrow key
+&middot; Lean Forward - Right arrow key
+&middot; Brake - Spacebar
+

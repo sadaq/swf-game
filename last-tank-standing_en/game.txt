@@ -1,0 +1,14 @@
+Title: Last Tank Standing
+
+Width: 640
+
+Height: 370
+
+Tags: Tank, Defense, Army
+
+Description:
+Last Tank Standing is a game in which you have to protect your territory by killing as many little soldiers as you can, using your cool army tank to score maximum points. Try to be accurate while shooting, as their number and difficulty increases as you advance in the game. The higher you aim, the further your shells will land! Have Fun!
+
+Instructions:
+&amp;middot; &lt;b&gt;Control&lt;/b&gt; = Use Mouse
+

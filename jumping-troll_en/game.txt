@@ -1,0 +1,14 @@
+Title: Jumping Troll
+
+Width: 520
+
+Height: 390
+
+Tags: Food, Adventure
+
+Description:
+Jumping Troll is an arcade game where you help a little troll bounce on the mushroom to collect the fruits above. Control the mushroom with your mouse, and as the troll lands on it he will bounce. Collect all the fruits and then guide the troll through the hoop to open the tree door and move onto the next level. Watch out for the owl!
+
+Instructions:
+&middot; Play This Game = Use Mouse
+

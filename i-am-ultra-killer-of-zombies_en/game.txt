@@ -1,0 +1,16 @@
+Title: I Am Ultra Killer Of Zombies
+
+Width: 800
+
+Height: 420
+
+Tags: Aiming, Action, Shooting, War, Army
+
+Description:
+The name just about says it all. In this top-down action survival shooter, you've crashed in the middle of nowhere and you'll need to defend yourself against the onslaught of malicious and hungry zombies. Collect cogs to build new and more powerful weapons. Use any spare moments you have to find shelter and do some repairs
+
+Instructions:
+Mouse to aim and shoot
+WSAD keys to move
+R to reload
+

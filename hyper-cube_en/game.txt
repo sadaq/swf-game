@@ -1,0 +1,14 @@
+Title: Hyper Cube
+
+Width: 550
+
+Height: 420
+
+Tags: Running, Maze
+
+Description:
+The objective of the game is to find the exit to each stage. Every stage is like a puzzle. There are all sorts of contraptions that can mutilate you instantly so be careful! Try not to touch any of the traps.Fun brain-teasing game that will keep you concentrated for hours. Hope you will be able to find the exits!
+
+Instructions:
+&amp;middot; &lt;b&gt;Movements&lt;/b&gt; = Arrow Keys
+

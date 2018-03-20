@@ -1,0 +1,14 @@
+Title: Mini Pool
+
+Width: 570
+
+Height: 420
+
+Tags: Billiards, Puzzle, Pool
+
+Description:
+This is a fun take on the ever popular 8 Ball Pool & Snooker Game. The aim of the game is to pot all the balls before the time written on the balls runs out. You have to start by potting the pink ball first as this has the least number of seconds on it and thus it's best to get rid of this ball first. Then one by one you must pot the red balls before the time runs out. There are lots of levels to play and complete. Each Levels introduces a better formation or level layout than previous levels.
+
+Instructions:
+· Play This Game = Use Mouse
+

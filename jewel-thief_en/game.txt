@@ -1,0 +1,15 @@
+Title: Jewel Thief
+
+Width: 600
+
+Height: 600
+
+Tags: Stealth, RPG
+
+Description:
+In this maze game you will have to steal the requested item (usually blinking) and escape unnoticed by the guards and security cameras. Be careful, though, as even the easiest level may be filled with safe looking spots that really are not! That original spot where you were unnoticed may now be the main spot to get busted. How many items can you steal successfully?
+
+Instructions:
+· Movements = Use Arrow Keys
+· Get Jewel = Use Space Bar
+

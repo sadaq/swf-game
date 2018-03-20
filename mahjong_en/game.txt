@@ -1,0 +1,14 @@
+Title: Mahjong
+
+Width: 520
+
+Height: 390
+
+Tags: Matching, Puzzle, Mahjong
+
+Description:
+Mahjong is a very popular Chinese Game. To complete a game you must clear the board of stones and not bring down the pyramid. To clear the stones you need to match 2 stones of the same design. They pyramid consist of 234, 164, 114, 64 and 40 stones. Try not to make a mistake as you can only use the "back" button to undo one move at a time, and you will loose the points you earned for that move!
+
+Instructions:
+&middot; Play This Game = Use Mouse (point and click)
+

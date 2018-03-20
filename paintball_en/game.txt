@@ -1,0 +1,15 @@
+Title: PaintBall
+
+Width: 660
+
+Height: 480
+
+Tags: Shooting
+
+Description:
+This has to be one of the most stress relieving shooting games around. Hit the smileys in the office with paintballs to gain maximum points and progress to the
+ next level. Please keep in mind though, you have to maintain an efficiency level of 70% and above in order to advance to the next level so try your best.
+
+Instructions:
+&middot; Shoot Smiley = Use Mouse (left click button)
+

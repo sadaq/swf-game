@@ -1,0 +1,16 @@
+Title: Muay Thai
+
+Width: 660
+
+Height: 480
+
+Tags: Beat Em Up, Martial Arts, Fighting
+
+Description:
+Muay Thai is a really old art of fighting that originates from Thailand. It is sometimes referred to as the science of eight limbs since it includes the use of punches, kicks, knees and elbows. Make your way through the different level by kicking some ass with your deadly and awesome moves!  Good Luck!
+
+Instructions:
+· Block = Z Key
+· Punch = X Key
+· Kick = C Key
+

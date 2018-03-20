@@ -1,0 +1,15 @@
+Title: Moto Mayhem
+
+Width: 640
+
+Height: 480
+
+Tags: Racing
+
+Description:
+Jump onto your bike in Moto Mayhem, race against other wacky players as the King. Compete in a series of races. Unlock new bikes as you go. Why not see if you can fit in some flips and tricks as you collect boosters and compete for the no1 spot.
+
+
+Instructions:
+Use arrow keys or A and D to move.
+

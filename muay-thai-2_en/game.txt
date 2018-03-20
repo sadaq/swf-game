@@ -1,0 +1,19 @@
+Title: Muay Thai 2
+
+Width: 550
+
+Height: 400
+
+Tags: Martial Arts, Street Fighting, Fighting
+
+Description:
+Muay Thai 2 is a Martial Arts Fighting Game. You are a Muay Thai boxer and need to take on the henchmen, as you make your way through various levels and get the Big Boss. Beat-up all the fighters in each zone to proceed to the next one. You can upgrade your strength and power factors at the end of each level. This game has the most advanced fighting moves ever seen in a online fighting game.
+
+Instructions:
+&middot; Move Around = Arrow Keys
+&middot; Block = Z Key
+&middot; Punch = X Key
+&middot; Kick = C Key
+&middot; Pause / Options = P Key
+&middot; Resume Game = R Key
+

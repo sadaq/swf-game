@@ -1,0 +1,14 @@
+Title: Hit Logic
+
+Width: 640
+
+Height: 480
+
+Tags: Scoreboard, Puzzle, Logic, Classic
+
+Description:
+In Hit Logicyour goal is to shoot red checkers! Do you have the eagle eye of a military-trained sniper? Then take on Hit Logic and knock out all of the red checkers in the least amount of moves as is humanly possible! Left click the checker then drag to adjust the angle and power then let go to shoot.
+
+Instructions:
+Left click the checker then drag to adjust angle and power. Let go to shoot.
+

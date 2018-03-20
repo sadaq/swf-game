@@ -1,0 +1,17 @@
+Title: Kaban Racetrack
+
+Width: 650
+
+Height: 350
+
+Tags: Animal, Running, Racing
+
+Description:
+Kaban Racetrack  Racing Game. Kaban the running boar starts a sport career. Take part in raceS at tracks. Run as many laps as possible. Accelerate! Be as fast as light! Explore tracks and find best paths, avoid obstacles, jump, fly with jet packs, buy upgrades, earn achivements and reach incredible speeds. Help Kaban become the champion of the RACE TRACK.
+
+Instructions:
+Use W + S or Up and Down Arrow keys to move Kaban.
+Spacebar to jump.
+
+Alternatively you can move the mouse and click to jump.
+

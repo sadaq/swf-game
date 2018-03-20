@@ -1,0 +1,15 @@
+Title: Mini Metro Racers
+
+Width: 670
+
+Height: 470
+
+Tags: Car, Arcade, Action, Racing, Driving, Scoreboard, Sports
+
+Description:
+Do you remember when you were playing with toy cars out in the yard, all that fun you had as a kid? Well it's time to relive those memories with our Mini Metro Racers! Drive miniature cars around wacky tracks using the directional controls and come in first! Seriously nostalgic and addictive, transport yourself back to the past now and start playing!
+
+Instructions:
+Arrow keys to drive
+P to pause
+

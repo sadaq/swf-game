@@ -1,0 +1,14 @@
+Title: Mesmemarble 2
+
+Width: 500
+
+Height: 560
+
+Tags: Puzzle, Maze
+
+Description:
+In this great and utterly addictive puzzle game, your objective is quite simply to find the way out without dropping the ball down a hole, hitting a mine, or touching walls that might make you explode. Try to pick up all the stars as you go for more points and a higher score! Check out the power-ups and avoid the bad ones. Survey the maze first to work out the best way of solving it. Move around the red marbles or lose a life! Good Luck!
+
+Instructions:
+&amp;middot; &lt;b&gt;Controls&lt;/b&gt; = Arrow Keys
+

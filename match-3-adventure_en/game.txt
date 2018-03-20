@@ -1,0 +1,14 @@
+Title: Match 3 Adventure
+
+Width: 640
+
+Height: 610
+
+Tags: Logic, Skill, Puzzle, Scoreboard, Action, Fighting, Physics
+
+Description:
+In this Anime-style puzzle game, you'll have to match up three or more blocks of the same color to clear the board and kill the baddies! Getting a higher number of color combinations allows your character to use more powerful attacks. Take a variety of new and challenging monsters in this unique new puzzle game!
+
+Instructions:
+Use the mouse to move the blocks just like Bejeweled.
+

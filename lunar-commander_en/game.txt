@@ -1,0 +1,14 @@
+Title: Lunar Commander
+
+Width: 600
+
+Height: 650
+
+Tags: Scoreboard, Strategy, War, Rts
+
+Description:
+Build mines, energy plants and barracks to raise your army in this addictive real time strategy game set on a barren battleground in the depths of space! Upgrade your buildings and units to protect your base from the waves of relentless enemies that will swarm the screen as soon as the time runs out!
+
+Instructions:
+Use the mouse to build structures, command units and upgrade your base.
+
