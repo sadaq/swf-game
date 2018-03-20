@@ -1,0 +1,16 @@
+Title: Valet Parking
+
+Width: 670
+
+Height: 600
+
+Tags: Car, Simulation, Driving, Parking
+
+Description:
+You need to make some extra cash so you become the newest Valet Parking attendant at the local country club. Ensure you park the members cars carefully otherwise the cost of the damages will come out of your pocket! Bash the cars too much and you'll get fired too, so be careful. You must collect their cars from the correct parking space once they come back too!
+
+Instructions:
+Use the arrow keys to walk around the parking lots as well as drive the cars.
+
+Use the Spacebar to enter and exit the cars.
+

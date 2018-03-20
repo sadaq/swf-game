@@ -1,0 +1,15 @@
+Title: Swamp Treck
+
+Width: 520
+
+Height: 390
+
+Tags: Jumping, Platform, Arcade
+
+Description:
+Swamp Treck is Calculating Game in which you must reach the end of the swamp by using the natural hummocks as a path. Use the spacebar to power up your jump and release to perform the jump. If you miss the hummock you fall into the water and drown, resetting you to your last safe position. You have a limited amount of lives but be warned, if you stay on a hummock too long without making a jump, it will sink!
+
+Instructions:
+&middot; Set The Power Of Your Jump = Space Bar
+&middot; Jump = Space Bar (release space bar)
+

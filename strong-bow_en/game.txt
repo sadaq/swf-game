@@ -1,0 +1,16 @@
+Title: Strong Bow
+
+Width: 670
+
+Height: 420
+
+Tags: Sword Fighting, Medieval, Killing, Fighting, Defense, Army, Archery, War, Upgrade
+
+Description:
+Defend your castle and attack your opponent's lands in Strong Bow. Every time you hit an enemy unit, you gain gold which you can spend on your own troops, building defenses and catapults, or upgrading your hero. A tip would be to try to send your troops in tightly packed waves so they can dish out the maximum damage.
+
+Instructions:
+&amp;middot; &lt;b&gt;Look Around&lt;/b&gt; = W,A,S,D Keys
+&amp;middot; &lt;b&gt;Shoot&lt;/b&gt; = Mouse (left click button)
+&amp;middot; &lt;b&gt;Buy Upgrades / Troops&lt;/b&gt; = Mouse (point and click)
+

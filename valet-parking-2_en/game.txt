@@ -1,0 +1,14 @@
+Title: Valet Parking 2
+
+Width: 670
+
+Height: 550
+
+Tags: Simulation, Driving
+
+Description:
+Valet Parking 2 is a Car Parking Game. You must collect the cars as they are dropped off by their owners and take note of the number of the bay they must be parked at. Use the spacebar to get in and out of the car and park it as quickly as possible without crashing. Then when the owners come back, you must take their respective cars back to them. You earn money for dropping cars off, but lose money for damage and customers who have been waiting too long.
+
+Instructions:
+Arrow keys to move and drive, spacebar to get in and out of cars.
+

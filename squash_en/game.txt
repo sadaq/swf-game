@@ -1,0 +1,15 @@
+Title: Squash
+
+Width: 670
+
+Height: 550
+
+Tags: Sports, Ball
+
+Description:
+In Squash, your goal is to prove your skills by hitting the ball against the wall in an attempt to make your opponent miss the rebound!  Be careful though as you have to hit it above the line and the opponent will try and throw you off from hitting the ball too. Move your player by using  the mouse and click and hold left mouse button to determine power then finally release the button to hit.
+
+Instructions:
+· Move player - Use the mouse.
+· Hit the ball - Click and hold left mouse button to determine power, release to hit.
+

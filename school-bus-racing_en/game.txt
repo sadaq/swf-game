@@ -1,0 +1,17 @@
+Title: School Bus Racing
+
+Width: 670
+
+Height: 600
+
+Tags: Driving, Racing
+
+Description:
+School Bus Racing is a fun racing game that shows you just what school bus drivers get up to once their work is done! Weld on your nitro boosters, and race your way through ten increasingly challenging courses on your road to being the king of school bus racers! Buses aren't as nimble or manoeuvrable as your average car however, so take care when turning those tight corners!
+
+Instructions:
+Accelerate - Up arrow key
+Decelerate - Down arrow key
+Turn left/right - Left/right arrow keys
+Nitro - Space
+

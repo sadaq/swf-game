@@ -1,0 +1,14 @@
+Title: Rickshaw Jam
+
+Width: 600
+
+Height: 500
+
+Tags: Parking, Puzzle, Car
+
+Description:
+Rickshaw jam is a Puzzle Game. There are 50 levels of puzzles to complete. You complete each level by helping the Rickshaw out of the jammed parking lot. You do this by moving the vehicles horizontally or vertically in a fashion to make way for the Rickshaw to exit. Click and drag the vehicles to where you would like to place them. Each stage awards 200 points after completion and it will be added to your score. The least number of tries the maximum number of points you get. If you get stuck, use the level REST button.
+
+Instructions:
+&middot; Play This Game = Use Mouse (point and drag)
+

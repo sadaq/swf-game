@@ -1,0 +1,14 @@
+Title: World Cup Cricket Practice
+
+Width: 670
+
+Height: 510
+
+Tags: Sports, Cricket, Scoreboard, Ball
+
+Description:
+Practice your Cricket skills and get ready for the World Cup! Use your mouse to move the bat and hit the ball, but be quick, the balls won't stop coming and you only have one wicket (1 life). You can hit singles, Doubles, Fours and sixes. You can be caught out or balled by a variety of slow, medium and fast paced balls. Get as many runs as you can to increase your top score and prove yourself ready for the national team selection committee!
+
+Instructions:
+Use the mouse to move the cricket bat.
+

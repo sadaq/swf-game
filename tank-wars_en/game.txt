@@ -1,0 +1,18 @@
+Title: Tank Wars
+
+Width: 550
+
+Height: 400
+
+Tags: Shooting, Army, War, Tank
+
+Description:
+Tank Wars is a classic shooting game with tanks. The game is divided in missions, every mission having a main objective: to kill a number of enemies in a given time. The more enemies you kill in a streak the greater your combo will be and you will earn more points. You will also get points from the seconds that remain from the given time to finish the mission. With the points you earn you can always buy upgrades, new weapons, ammo and miscellaneous things for your tank. Try to not be hit and kill as many enemy tanks as you can to ensure a high score!.
+
+Instructions:
+&amp;middot; &lt;b&gt;Movements&lt;/b&gt; = W,A,S,D Keys
+&amp;middot; &lt;b&gt;Aim And Shoot&lt;/b&gt; = Mouse
+&amp;middot; &lt;b&gt;Special Attack&lt;/b&gt; = Q or E Keys
+&amp;middot; &lt;b&gt;Weapon Cycle&lt;/b&gt; = Space Bar
+&amp;middot; &lt;b&gt;Time Stopper&lt;/b&gt; = Mouse (hold left click button)
+

@@ -1,0 +1,14 @@
+Title: Truck Race 3D
+
+Width: 640
+
+Height: 480
+
+Tags: , 3D, , Truck, 
+
+Description:
+These tractor trailers just don't know their place -- they're interested in racing, and you have to help. Drive the massive and unruly truck as you compete with various rivals. With various optional camera angles and excellent 3D graphics, you'll have a hard time staying away -- and staying on the road. 
+
+Instructions:
+Use the keyboard to control the truck.
+

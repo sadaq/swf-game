@@ -1,0 +1,15 @@
+Title: Toms Beach Parking Lot
+
+Width: 680
+
+Height: 550
+
+Tags: Scoreboard, Simulation, Racing, Driving, Management, Parking, Car
+
+Description:
+Impressing the ladies with his new convertible will be difficult if he can't even park! In this challenging action-puzzle, you'll help Tom park his car -- a pretty simple task, if it wasn't for all the crazy drivers, absurd obstacles, and relentless puzzles getting in his way. You can get a few scratches on your new car, but watch your health!
+
+Instructions:
+Arrow keys to drive
+Space bar to finish parking.
+

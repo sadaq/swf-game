@@ -1,0 +1,14 @@
+Title: Ruma Pipe
+
+Width: 600
+
+Height: 500
+
+Tags: Strategy, Puzzle
+
+Description:
+Ruma Pipe is a dexterity game in which you have to get a ring through the pipe until you cross the finish line without touching it. You must not touch the pipe because you will have to start all over again. If you are fast and like challenges this game is for you. Try to move really fast because time is key for a good high-score. Get points by finishing on time and earn power-ups on the way to the finish line for a maximum game experience.
+
+Instructions:
+&amp;middot; &lt;b&gt;Movements&lt;/b&gt; = Use Arrow Keys
+

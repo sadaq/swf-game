@@ -1,0 +1,15 @@
+Title: Young Lee
+
+Width: 695
+
+Height: 520
+
+Tags: Martial Arts, Ninja, Killing, Fighting
+
+Description:
+Young Lee, needing to submit to his training, watches his master fall to the hands of the Dragon King. Journey on a quest of vengeance to get the dragon blood back and stop the Dragon King. Using only your mouse, you can jump, crouch and attack with the ferocity of a dragon to achieve total victory!
+
+Instructions:
+&middot; Movements = Arrow keys
+&middot; Attack = Q/W keys
+

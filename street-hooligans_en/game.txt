@@ -1,0 +1,55 @@
+Title: Street Hooligans
+
+Width: 400
+
+Height: 300
+
+Tags: Arcade, Fighting, Action
+
+Description:
+In Street Hooligans, kill horde after horde of thugs and hooligans in every level of this nice flash game and score as many points as you can. Earn points and cash to buy health potions and armour. You can even upgrade your weapons! Be careful though, there are even more bad guys as the difficulty increases! If the swarm is too much for you to take, you can always use a special move that’ll disperse them all, given you a momentary reprieve to prepare yourself for the next hurdle! Good luck!
+
+
+Instructions:
+In this awesome flash game, your aim is to protect your territory by killing all the hooligans and clear every level to score maximum points. 
+
+In order to do this, you need to avoid their attack otherwise they will reduce the energy and game will be over. Use energy and health potions where necessary, as they are limited. 
+
+
+For killing every single hooligan you will receive 10 dollars, so use the money to purchase upgrades after every level. Also you can practice in free mode but dont forget to keep an eye on the energy and life status. Good Luck...
+
+Controls:
+
+
+	
+
+		Movements
+		WASD Keys
+	
+	
+		Attack
+		Left Mouse Click
+	
+	
+		Super Power (Only for maximum energy)
+		Space Bar
+	
+	
+		Energy Potion
+		Q Key
+	
+	
+		Health Potion
+		I Key
+	
+	
+		Sound
+		Z Key
+	
+	
+		Pause 
+		P Key
+	
+
+
+

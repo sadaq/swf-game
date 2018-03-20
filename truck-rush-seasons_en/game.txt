@@ -1,0 +1,14 @@
+Title: Truck Rush Seasons
+
+Width: 800
+
+Height: 440
+
+Tags: Scoreboard, Driving, Racing, Puzzle
+
+Description:
+Click your mouse to accelerate in this simple but fun racing game! Race your truck and avoid all obstacles in the shortest time possible! Be careful, every level is different and the moving obstacles will make your life that little bit harder soon enough! The longer you hold the left click button down, the faster you go, the higher the score. But the faster you go, the harder it will be to avoid the moving blocks!
+
+Instructions:
+Use the mouse to click to accelerate.
+

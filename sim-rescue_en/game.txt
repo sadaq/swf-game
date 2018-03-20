@@ -1,0 +1,16 @@
+Title: Sim Rescue
+
+Width: 550
+
+Height: 400
+
+Tags: Flying, Helicopter, Simulation, Physics
+
+Description:
+Sim Rescue is a Helicoptor Flying Game. As the pilot of a fire and rescue helicoptor, you must fly to the help of stranded civilians. Hover above and lower your ladder to them, or try landing on the rooftop instead, just be careful of the strong wind. Once you have rescued all the civilians, drop them off at the hospital. Remember to refuel if you're getting low.
+
+Instructions:
+&middot; Fly Around = Arrow Keys
+&middot; Refuel = Space Bar
+&middot; Lower Ladder = S Key
+

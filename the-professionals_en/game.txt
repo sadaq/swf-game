@@ -1,0 +1,17 @@
+Title: The Professionals
+
+Width: 550
+
+Height: 400
+
+Tags: Simulation, Target Practicing, Shooting
+
+Description:
+The Professionals is a Sniping Game. The aim is to shoot the targets that are moving around the various assault courses with your sniper rifle. To gain maximum points you have to shoot the targets with greater accuracy and as quickly as possible. You can score double-points if you shoot with the SNIPER MODE on.
+
+Instructions:
+&middot; Aim And Shoot = Mouse (left click button)
+&middot; Toggle Sniper Mode = Space Bar
+&middot; Reload = Shift Key
+
+

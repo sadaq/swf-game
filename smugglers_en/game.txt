@@ -1,0 +1,14 @@
+Title: Smugglers
+
+Width: 550
+
+Height: 500
+
+Tags: Car, Driving, Racing, Police
+
+Description:
+Smugglers is a Driving Game , You are a smuggler trying to run away from the border police. Follow the red arrow to find the cargo before it is discovered by the police. Once you have picked up the cargo, take it back to the helicopter landing pad, then get the next crate of goods. While you're doing so, the police will be constantly be trying to smash into you, in order to damage your vehicle and bring you to a stop... Also avoid crashing into the camels.
+
+Instructions:
+&middot; Drive Around = Use Arrow Keys
+

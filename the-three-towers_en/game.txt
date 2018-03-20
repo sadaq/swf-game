@@ -1,0 +1,16 @@
+Title: The Three Towers
+
+Width: 640
+
+Height: 530
+
+Tags: Strategy, Tower Defense, Defense
+
+Description:
+The Three Towers is a tower defense game. The goal of the game is to defend your pizza from the hungry insects by using your three towers to take them down! You control one tower yourself, while the other two automatically fire at the enemy. Use the money earned by defeating enemies to heal and upgrade your towers! A useful hint would be to be prepared, not all enemies follow the normal path!
+
+Instructions:
+Fire - Hold down the left mouse button.
+Navigate through the menu - Use the mouse.
+
+

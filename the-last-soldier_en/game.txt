@@ -1,0 +1,18 @@
+Title: The Last Soldier
+
+Width: 600
+
+Height: 400
+
+Tags: Shooting, Army, Zombie, Survival, 3D
+
+Description:
+Your aim is to deliver the antidote to inoculate soldiers who were infected by a virus that turned them into zombies in a place called Area 1. But your plane crashed within the area killing everybody on board except you. It is now your duty to carry on with the mission to look for the antidotes that have scattered all over Area 1. Defend yourself at all cost. You must survive this awesome zombie game!
+
+Instructions:
+&amp;middot; &lt;b&gt;Move Forward/Backward&lt;/b&gt; = W,S Keys
+&amp;middot; &lt;b&gt;Angels Movement&lt;/b&gt; = Arrow Keys
+&amp;middot; &lt;b&gt;Fire Weapon&lt;/b&gt; = Space Bar
+&amp;middot; &lt;b&gt;Switch Weapons&lt;/b&gt; = 1,2,3 Keys
+&amp;middot; &lt;b&gt;Exit To Menu&lt;/b&gt; = Tab Key
+

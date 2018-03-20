@@ -1,0 +1,18 @@
+Title: Truck Parking HD
+
+Width: 980
+
+Height: 500
+
+Tags: Unity, Driving, 3D, Truck, Parking
+
+Description:
+Truck Parking is a realistic 3D parking game where you have to park your 18 Wheeler Truck into some very tight parking spaces. You've just passed 90% of your Heavy Goods Vehicle license.. Now to get the full license can you master the art of parking the huge truck. Packed with various difficult parking scenarios, can you complete them all within the time given and without crashing! Enjoy hours of fun parking your truck! 
+- Amazing Vehicle Physics 
+- Difficult Levels to overcome 
+- Challenging & Addictive 
+- Fun For Everyone!
+
+Instructions:
+Arrows to drive. Space to brake
+

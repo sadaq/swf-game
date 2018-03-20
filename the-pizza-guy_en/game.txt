@@ -1,0 +1,15 @@
+Title: The Pizza Guy
+
+Width: 670
+
+Height: 600
+
+Tags: Scoreboard, Driving, Taxi, Delivery
+
+Description:
+Order up! There are a lot of pizza orders that are coming in, and the owner needs someone to get these pizzas to the customers! You know the streets better than anyone else, so hop on your bike, accept all the orders you can, and get driving to deliver them. Once you finish the delivery, head back for your next order. Keep up the speed, but don't mess up the pizzas!
+
+Instructions:
+&middot; Move around - Arrow keys
+&middot; Navigate menus - Use the mouse
+

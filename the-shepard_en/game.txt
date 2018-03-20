@@ -1,0 +1,15 @@
+Title: The Shepard
+
+Width: 700
+
+Height: 400
+
+Tags: Killing, Archery, Medieval, Shooting
+
+Description:
+The Shepherd is an Archery based Fighting Game. The romans have taken your father and you must go rescue him. You must get to the end of each level by killing all the enemy archers. A strategy is to just keep firing your arrows until your find the right angle and power to hit the target. Every time your run out of arrows a bird will drop arrows to restock you up. The enemy archers do fire back with some accuracy so do keep moving and hide behind objects to avoid incoming arrows.
+
+Instructions:
+&amp;middot; &lt;b&gt;Movements&lt;/b&gt; = Arrow keys
+&amp;middot; &lt;b&gt;Fire Arrows&lt;/b&gt; = Use Mouse (drag left mouse button)
+

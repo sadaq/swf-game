@@ -1,0 +1,15 @@
+Title: Sweet Tooth
+
+Width: 520
+
+Height: 390
+
+Tags: Adventure, Animal, Platform, Food
+
+Description:
+Sweet Tooth is a Platform Game. A mouse lives inside a bakery, help the little mouse climb upwards until you reach the top platform where his favorite cake is kept. Watch out for the enemies roaming around. Also remember that there are some moving and slippery platforms where you can't stand still but only move. There are lots of levels to complete which get more nd more complex as your proceed.
+
+Instructions:
+&middot; Move Left or Right = Left or Right Arrow Keys
+&middot; Jump = Up Arrow Key
+

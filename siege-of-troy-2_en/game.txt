@@ -1,0 +1,15 @@
+Title: Siege of Troy 2
+
+Width: 670
+
+Height: 550
+
+Tags: Shooting, Shooter, Archery
+
+Description:
+Siege Of Troy 2 harkens the return of the classic archery game series!  Troy is under threat once again, and the enemy is stronger than ever before!  Fortunately, so are you!  Your technology has advanced immensely since the last war, and now you have some real firepower on your side!  Huge volleys of flaming arrows, burning rocks, and landscape-tearing boulders.  So long as you keep your aim sharp, and your timing perfect, you can win this war once again!
+
+Instructions:
+Aim and fire - Use mouse to aim, hold and release mouse to fire.
+Select special attack - Q,W,E keys.
+

@@ -1,0 +1,15 @@
+Title: Phantom Slash
+
+Width: 640
+
+Height: 570
+
+Tags: Arcade, Action, Scoreboard, Shooting
+
+Description:
+Hello You Landlovers, there's some trouble on the top deck. Pirate ghosts are running amok the old shipwreck ruins, slice and shoot them back to their graves. In Phantom Slash, it is all about the speed! Click and drag to slice, and simply point and click to shoot! How many can you take down before it is game over?
+
+Instructions:
+Hold left mouse and move to slice.
+Spacebar to activate pistol then left click to shoot.
+

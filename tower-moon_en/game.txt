@@ -1,0 +1,14 @@
+Title: Tower Moon
+
+Width: 640
+
+Height: 480
+
+Tags: Strategy, Tower Defense, Defense
+
+Description:
+The prince has been kidnapped by a vicious dragon! Only the princess is now left to save him. It's time to gather all your forces and rescue him from the certain doom that awaits him in Tower Moon! Select your troops wisely and move through each level without fail in this quirky strategy game! Will your wits save the kingdom?
+
+Instructions:
+Use the mouse to command units by left clicking them then clicking where on the level you want them to go. Finally click go to complete the move.
+

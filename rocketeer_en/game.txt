@@ -1,0 +1,14 @@
+Title: Rocketeer
+
+Width: 560
+
+Height: 630
+
+Tags: Platform, Scoreboard, Arcade, Action, Flying
+
+Description:
+Rocketeer is a fun, frantic flying game in which you help the penguin reach the moon, bouncing on clouds to propel you into the skies, and collecting as many coins, diamonds and other collectables as you can along the way! The more coins you collect the more equipment you can upgrade to help bring this eager penguin closer to his dreams!
+
+Instructions:
+Use the mouse to move the penguin.
+

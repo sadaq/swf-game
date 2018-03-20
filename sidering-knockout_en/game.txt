@@ -1,0 +1,15 @@
+Title: Sidering Knockout
+
+Width: 600
+
+Height: 440
+
+Tags: Sports, Fighting, Boxing
+
+Description:
+In Sidering Knockout, you goal is to knock all your opponents out cold and get the championship belt! Try to use combinations and dodge the opponents punches. A good tip would be to find the best key combination and use it all the time. Try not to get hit by spamming punches. Note: we are not responsible for any damage you may do to your keyboard! Show them who's boss in the ring.
+
+Instructions:
+&amp;middot; &lt;b&gt;Punch Combination&lt;/b&gt; - Arrow Keys
+&amp;middot; &lt;b&gt;Left / Right Punch / Defend&lt;/b&gt; - A,S,D Keys
+

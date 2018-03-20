@@ -1,0 +1,19 @@
+Title: Rocket Rex
+
+Width: 600
+
+Height: 450
+
+Tags: Upgrade, Dinosaur, Unity, Distance
+
+Description:
+Rocket Rex is a fun endless game where you are a dinosaur with a rocket attached to your back! What could be better?! Rockets AND Dinosaurs!
+Fly your way as far as you can and collect as many eggs as possible. Use your eggs to buy bonuses and a new dinosaur!
+Guaranteed endless fun with Rocket Rex!
+- Fun For All Ages
+- Control Your Very Own Rex!
+- Fly Further Than Any Dinosaur Has Flown Before!
+
+Instructions:
+Click and hold mouse to use rocket to rise, release to descend.
+

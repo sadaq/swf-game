@@ -1,0 +1,16 @@
+Title: Ski Sim
+
+Width: 670
+
+Height: 600
+
+Tags: Sports, Stunt, Scoreboard, Skiing
+
+Description:
+Ski Sim is a Winter Sports Skiing Simulator of a Game. You have to ski on the exhilarating steep slopes of Switzerland! You have to perform as many tricks as you can and reaching the finishing line before your time runs out! Perform tricks like back-flips, front-flips, 360 Spins, Super big Jumps and even Backward Jumps to earn points. You cannot cross the finish line until you achieve the minimum required number of points for each level.
+
+Instructions:
+&middot; Move forward/backward - Left and right arrow keys respectively.
+&middot; Turn - Up arrow key.
+&middot; Jump - Spacebar
+

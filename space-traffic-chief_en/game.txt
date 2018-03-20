@@ -1,0 +1,14 @@
+Title: Space Traffic Chief
+
+Width: 670
+
+Height: 550
+
+Tags: Managing, Flying, Drawing, Scoreboard, Strategy, Space
+
+Description:
+With the emergence of new technology, humans have left Earth to explore other galaxies. In doing so, many orbital stations were created to control which crafts would navigate back and forth. Your duty is to become the traffic controller and make sure peace is upheld. Direct the cargo ships to the proper bay, the passenger ships, etc. Be on the look out for the special carriers, as you need to make sure no one hits them. Keep crashes to a minimum, and draw in as many ships as you can!
+
+Instructions:
+&amp;middot; &lt;b&gt;Guide space traffic&lt;/b&gt; - Use the mouse to draw a line between the vehicle and its respective port.
+

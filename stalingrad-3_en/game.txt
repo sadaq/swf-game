@@ -1,0 +1,14 @@
+Title: Stalingrad 3
+
+Width: 640
+
+Height: 480
+
+Tags: Upgrade, Survival, Building, Strategy, Defense, Tower Defense, Army, War
+
+Description:
+Your mission in Stanlingrad 3 is to defend the mining region of the Don but in order to stop the army of the Germans to re-supply their war machines you need to build a defense line. You have resources in the valley so you can build walls, solar batteries, dual gunners and AT-1 A missiles to protect the valley from invading forces. Try to build different types of buildings so your forces can retaliate accordingly. Do not let them pass!
+
+Instructions:
+&amp;middot; &lt;b&gt;Play This Game&lt;/b&gt; = Mouse (point and click)
+

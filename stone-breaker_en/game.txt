@@ -1,0 +1,14 @@
+Title: Stone Breaker
+
+Width: 560
+
+Height: 420
+
+Tags: Breakout, Arkanoid, Classic, Puzzle
+
+Description:
+Stone Breaker is an Arcade Game. There is a formation of stone bricks at the top, a wooden paddle at the bottom and in between them a metal ball. You have to bounce the ball against the bricks using the paddle in order to break the bricks. Your aim is to clear each level of all of the stone bricks without losing a ball. Sometimes the Stone bricks will drop power-ups, make sure you catch these. Some benefit you whilst others harm you.
+
+Instructions:
+&middot; Move The Paddle Left / Right = Use Mouse
+

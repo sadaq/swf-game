@@ -1,0 +1,14 @@
+Title: Star Journey
+
+Width: 640
+
+Height: 530
+
+Tags: Scoreboard, Logic, Physics, Space, Flying, Puzzle
+
+Description:
+Outer space is hard to navigate! Fly in between satellites and collect the stars to make your journey a safe and productive one! Head for the portal once you've gotten all the stars. Zipping through the obstacles will be tricky, though. Once you've gained momentum, it's hard to stop! Propel yourself this way and that in this physics-based space adventure!
+
+Instructions:
+Use the mouse to control your ship, left click to thrust.
+

@@ -1,0 +1,15 @@
+Title: Twins
+
+Width: 520
+
+Height: 390
+
+Tags: Puzzle, Maze
+
+Description:
+In Twins, to achieve your goal, you must stay alive against harmful spiders and kill them by spitting on them. For every move your first twin will perform the second will do the same... but in the opposite direction, so choose your moves wisely so that they can reach their destination together and unharmed! Hint: try moving against the walls to get your twin to do what you want! Have fun, and good luck!
+
+Instructions:
+&middot; Movements = Arrow keys
+&middot; Spit On Spider = Space Bar
+

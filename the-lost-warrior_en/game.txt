@@ -1,0 +1,15 @@
+Title: The Lost Warrior
+
+Width: 640
+
+Height: 480
+
+Tags: Shooting, Water, Survival
+
+Description:
+The lost Warrior is a shooting game in which you have to defend your land from colonizers. They will come in great number so always be on the move to avoid their shots. The main objective is to secure the beach by killing anybody who comes from the sea. You can chose from a couple of guns but the ammo is limited for the big guns, your pistol being the only one with infinite ammo. After you kill a number of enemies you move to the next stage which will be more challenging. Be careful and try not to die because you have got just 3 lives.
+
+Instructions:
+&amp;middot; &lt;b&gt;Movements&lt;/b&gt; = W,A,S,D Keys or Arrow Keys
+&amp;middot; &lt;b&gt;Shoot Enemy&lt;/b&gt; = Mouse
+

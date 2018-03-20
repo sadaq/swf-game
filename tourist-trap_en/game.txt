@@ -1,0 +1,16 @@
+Title: Tourist Trap
+
+Width: 450
+
+Height: 400
+
+Tags: 3D, Maze, Strategy, Puzzle
+
+Description:
+Tourist attractions are designed to be difficult to leave. Do your best to get this poor couple out! In this top-down, isometric action puzzle game, it's your job to use your wits and the teamwork of the tourists to escape the tourist trap. Use bombs to open spaces, but don't blow your own team up! Be mindful of the clock in your race against time.
+
+Instructions:
+&middot; Movements = Arrow keys
+&middot; Bomb = Ctrl key
+&middot; Switch Character = Space Bar
+

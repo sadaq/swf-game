@@ -1,0 +1,19 @@
+Title: Sky Fire Fighter
+
+Width: 700
+
+Height: 400
+
+Tags: Simulation, Aeroplane, Airplane, Flying
+
+Description:
+You're a sky Fire Fighter and your job is to extinguish the fire in the forest. Fly your fire fighting plane, fill up water from the lake and sprinkle on the fire. Avoid the birds as they cause damage to your plane. You might need to refuel your water tank to completely put off the fire. To refill your water tank, fly your plane very closely over the lake to scoop water into your planes water tanks.
+
+Instructions:
+· Ascent = Up Arrow Key
+· Descent = Down Arrow Key
+· Turn The Plane = Left or Right Arrow Keys
+· Release Water = Space Bar
+· Slow Down = Z Key
+· Speed Up = A Key
+

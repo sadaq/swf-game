@@ -1,0 +1,14 @@
+Title: Pitching Machine
+
+Width: 560
+
+Height: 420
+
+Tags: Baseball, Simulation, Sports
+
+Description:
+Pitching Machine is a Baseball Batting Simulator. You must try to hit all 10 balls as far as you can. (before you can start, you must select a team). Click the Start Button from the top left. Hold the bat and cick the mouse when you want to swing the bat. The pitching machine will show a red light when the ball is about to be released. Also you can select your own choice of bat, and adjust the speed of the ball on the speedometer.
+
+Instructions:
+&amp;middot; &lt;b&gt;Hit The Ball&lt;/b&gt; = Use Mouse (left click button)
+

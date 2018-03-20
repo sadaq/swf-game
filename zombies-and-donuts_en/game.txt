@@ -1,0 +1,14 @@
+Title: Zombies and Donuts
+
+Width: 670
+
+Height: 500
+
+Tags: Scoreboard, Arcade, Platform, Action
+
+Description:
+In this beautiful, arcade-style action puzzle, you will have to navigate the walls of a maze, grab donuts, and avoid zombies! A few people are taken hostage by the zombies on every map, so you'll have to grab them and lead them to the safety of the green zone. Don't let the hostages get eaten alive (or yourself, for that matter) or you'll lose the game!
+
+Instructions:
+Use the arrows to move.
+

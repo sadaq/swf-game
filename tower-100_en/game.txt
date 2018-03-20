@@ -1,0 +1,14 @@
+Title: Tower 100
+
+Width: 640
+
+Height: 480
+
+Tags: Balance, Puzzle, Physics
+
+Description:
+Tetris meets a tower builder in this hybrid of Tower 100. You're given 100 blocks and are commanded to build the tallest tower you can. You're provided a small platform in which to base your foundation. Each block has its own physics dimension, and may require more focus than just dropping a block. Make sure your tower is well balanced, using careful planning and thought. Can you create the perfect tower?
+
+Instructions:
+&amp;middot; Move brick - &lt;b&gt;Arrow keys&lt;/b&gt;
+

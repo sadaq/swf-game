@@ -1,0 +1,17 @@
+Title: Twilight BMX
+
+Width: 670
+
+Height: 600
+
+Tags: Bike, Physics, Scoreboard
+
+Description:
+Twilight BMX is Side Scrolling Bike Game. In this game a massive tornado is chasing you and all you have on your side is your old trusty bmx bike. Ride your bike on the rough hills and various obstacles as you go for the ride of your life! The aim of the game is to outrun the tornado for as long as possible. You can enhance your end score by using WASD to perform stylish tricks whilst in the air. 
+
+Instructions:
+Accelerate - Up arrow key.
+Decelerate - Down arrow key.
+Lean - Left-right arrow keys.
+Perform tricks - W,A,S,D keys.
+

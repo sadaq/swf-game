@@ -1,0 +1,14 @@
+Title: Space Bugs
+
+Width: 560
+
+Height: 420
+
+Tags: Classic, Space Invaders, Space
+
+Description:
+Space Bugs is a Space based Shooting Game. Your aim is to fly your space fighter and shoot down the invading hostile space bugs and clear them off, before advancing to the next level. The Bugs fly around in formations, they also shoot back, so avoid getting hit by the enemy bullets or you'll lose a life. You only have 3 lives in total. A tip is to hide in the bottom corners to avoid most of their bullets.
+
+Instructions:
+&middot; Move Around / Fire = Mouse (left click button)
+

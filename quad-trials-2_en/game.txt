@@ -1,0 +1,16 @@
+Title: Quad Trials 2
+
+Width: 700
+
+Height: 470
+
+Tags: Physics, Bike, Balance, Driving
+
+Description:
+Quad Trials 2 is the second instalment of the popular physics-based quad-bike driving game! With tracks more dangerous and challenging than ever, you'll have to test your skills to the limit to get to the finishing line quickly. Timing is key when there's moving platforms around, and keeping an eye on your surroundings is essential, so stay sharp!
+
+Instructions:
+Accelerate - Up Arrow Key
+Decelerate - Down Arrow Key
+Tilt left/right - Left/Right Arrow Keys respectively
+

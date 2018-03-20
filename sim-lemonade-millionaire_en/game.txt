@@ -1,0 +1,14 @@
+Title: Sim Lemonade Millionaire
+
+Width: 640
+
+Height: 480
+
+Tags: Managing, Food, Upgrade, RPG, Business
+
+Description:
+The objective of the game is to sell as many lemonades as you can. Buy upgrades to increase the max capacity of your ingredients. Keep the customers happy by modifying the recipe. Experiment on which recipe the customers likes most and try no to go bankrupt. Do you have what it takes to make millions from lemonade?
+
+Instructions:
+&amp;middot; &lt;b&gt;Play This Game&lt;/b&gt; = Use Mouse (point and click)
+

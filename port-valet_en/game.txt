@@ -1,0 +1,14 @@
+Title: Port Valet
+
+Width: 670
+
+Height: 550
+
+Tags: Boat, Driving, Parking
+
+Description:
+Port Valet is the name, parking boats is the game.  Your job is to carefully manoeuver the boats into the correct bay as requested by the customer.  Forward, reverse, straighten her up, but take it easy as any bump will result in your wages being "docked" (pardon the pun). Too much damage will result in game over.  There are plenty of levels to play through in this addictive driving game.
+
+Instructions:
+Use the arrow keys to drive the boats
+

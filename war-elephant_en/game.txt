@@ -1,0 +1,17 @@
+Title: War Elephant
+
+Width: 670
+
+Height: 600
+
+Tags: Army, Aiming, War, Scoreboard
+
+Description:
+In War Elephant, your goal is to face hordes of the world's most vicious warriors as you lead your army to glory in your quest for the legendary axe! Upgrade your units! Call for reinforcements during battle! Buy as many as it takes to win this awesome game and remember as long as your warrior elephant survives, you can win! Make it to the enemy castle to beat the level and continue conquering the map!
+
+Instructions:
+Move elephants - Use arrow keys, or click directional arrow buttons.
+Summon squads - Press viking/archer buttons.
+Fire arrows - Press the various arrow buttons on the left
+Charge elephant - Press elephant button
+

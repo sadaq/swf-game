@@ -1,0 +1,16 @@
+Title: Plunder Squad
+
+Width: 672
+
+Height: 530
+
+Tags: Coin, Tank, Scoreboard, Military
+
+Description:
+Plunder Squad is a top down shooting game. The game has 5 floors, with each floor having many battle rooms. Lead your Plunder Squad into the temple, pillaging whatever precious items you can while taking on the temple's defences!  Watch out though, the temple is quite the tricky maze, with foes of all kinds filling its many treasure-filled dungeons. If you keep your weapons upgraded, and make good use of the checkpoints however, you might just get by - but it won't be easy!
+
+Instructions:
+Movement - W,A,S,D keys.
+Aim and fire: Use the mouse cursor to aim, left click to fire.
+Switch weapons: Number keys 1-6.
+

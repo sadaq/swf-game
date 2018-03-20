@@ -1,0 +1,14 @@
+Title: Planet Racer
+
+Width: 550
+
+Height: 400
+
+Tags: Space, Alien, Car, Racing
+
+Description:
+This is a one on one drag racing game based in space. You will be given a small sum of money and a basic car, You will go from planet to planet to challenge others to a race. First race all the not to experienced drivers before moving onto the professionals. You will get paid for every race you win. Before you begin a race you can go to the shop and garage to upgrade your vehicle. You can buy better tyres, nitrus, fix your damage etc. This is one of the best RACING GAMES in the universe.
+
+Instructions:
+· Controls = Use Arrow Keys
+

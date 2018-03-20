@@ -1,0 +1,14 @@
+Title: Road Crisis
+
+Width: 700
+
+Height: 450
+
+Tags: Managing, Car, RPG, Simulation
+
+Description:
+Road Crisis is a traffic management simulation game. You are in control of all the traffic lights in the city and you must carefully switch the lights to green to allow traffic to move or back to red to make it stop. Choose a 2, 3 or 4 minute game and make it to the end without crashing too many cars, or allowing a queue to get too big.
+
+Instructions:
+&middot; Play This Game = Use Mouse (point and click)
+

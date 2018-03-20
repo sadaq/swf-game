@@ -1,0 +1,20 @@
+Title: Teddy Run
+
+Width: 650
+
+Height: 600
+
+Tags: Unity, 3D, Running
+
+Description:
+Teddy Run is fantastic action packed runner game where you can test your reflexes and travel the furthest distance you can by avoiding the traps set out to stop you! Collect coins and buy power-ups and new costumes for your teddy. How far can you run in this free 3D Endless game? Do you think you can achieve the highest score possible at any possible time?
+
+Download for free!
+iOS - http://goo.gl/LE9gtx
+Google Play - http://goo.gl/Irjdnm
+Amazon - http://goo.gl/0LUUME
+Windows - http://goo.gl/5EAyCB
+
+Instructions:
+Use the arrow keys to jump, crouch and turn, Z and X to side-step and Space to use your special ability.
+

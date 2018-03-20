@@ -1,0 +1,15 @@
+Title: Taxi Driving School
+
+Width: 570
+
+Height: 400
+
+Tags: Taxi, RPG, Car, Racing, Simulation
+
+Description:
+Taxi Driving School is a driving game where you learn to drive a Taxi Cab. In order to pass the taxi exam you must first complete the 14 driving maneuvers within the set time limit, while staying on the set path without crashing. There will be some guides on the road which you must follow to execute the required maneuvers correctly. Good Luck!
+
+Instructions:
+&middot; Drive The Taxi = Use Arrow Keys
+&middot; Brake = Use Space Bar
+

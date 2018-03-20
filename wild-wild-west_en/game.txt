@@ -1,0 +1,16 @@
+Title: Wild Wild West
+
+Width: 650
+
+Height: 400
+
+Tags: Target Practicing, Shooting
+
+Description:
+Wild Wild West is a fast-paced Cowboy Shooting Game. The ill-famed gang of "Shorty"  has assaulted the mayor of Susiville and Killed it's Sheriff. The Deputy is afraid to take over so you will go after the bad guys.
+
+You play the game by shooting all the bad guys that are hiding in the buildings and occassionaly pop out to shoot at you. Do not kill the innocent American Indians or the non-armed civilians. When you run out of bullets, pick them up and put them in your gun to continue shooting.
+
+Instructions:
+· Aim and Shoot = Use Mouse
+

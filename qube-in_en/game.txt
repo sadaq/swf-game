@@ -1,0 +1,14 @@
+Title: Qube-In
+
+Width: 640
+
+Height: 480
+
+Tags: Word, Puzzle
+
+Description:
+If you like to play with words Qube-In is the game you will surely like. The objective of Qube-In is to form long words using the inner tiles to get the maximum points. If you use the tiles in the middle the points you earn are bigger but try to form bonus words to make some extra points as well. It's fun but you must love playing with words to get high-scores.
+
+Instructions:
+&amp;middot; &lt;b&gt;Play This Game&lt;/b&gt; = Use Mouse (point and click)
+

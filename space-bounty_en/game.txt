@@ -1,0 +1,16 @@
+Title: Space Bounty
+
+Width: 700
+
+Height: 580
+
+Tags: Shooting, Platform, Defense
+
+Description:
+Space Bounty is a platform game in which you have to shoot your way through every level. You can collect weapon power-ups, extra lives, money and ammunition. The money you collect can be used in purchasing upgrades, implants and shields. You can find special items and keys for hidden passageways throughout the game. Stay alive by jumping on different platforms and kill all your enemies to make it to the end.    
+
+Instructions:
+&amp;middot; &lt;b&gt;Movements&lt;/b&gt; = Arrow Keys
+&amp;middot; &lt;b&gt;Aim and Fire&lt;/b&gt; = Mouse
+&amp;middot; &lt;b&gt;Select Weapon&lt;/b&gt; = 1 - 6 Keys
+

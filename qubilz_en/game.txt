@@ -1,0 +1,14 @@
+Title: Qubilz
+
+Width: 640
+
+Height: 530
+
+Tags: Balancing, Physics, Puzzle
+
+Description:
+Qubilz is a fun, challenging, physics-based puzzle game; in which your goal is to build a structure from a limited number of jello blocks... and then endure a pummeling from those devious black balls! Stack your tower as high as possible for an even better score, just make sure to make it as stable as you can; you might be able to build a tower, but there's no guarantee that it'll survive the rain if it's not structured properly!
+
+Instructions:
+Select and place blocks - Left-click on a block to select it, move your mouse around to move it on the screen, and then click again to place the block.
+

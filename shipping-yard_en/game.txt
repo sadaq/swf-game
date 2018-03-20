@@ -1,0 +1,16 @@
+Title: Shipping Yard
+
+Width: 670
+
+Height: 550
+
+Tags: Logic, Puzzle, Skill, Physics
+
+Description:
+Working on the ship yard has never been easy. Your massive magnetic crane will help, but not too much. Moving the cargo from the platform onto the boat, you'll have to carefully place the cargo to the best of your ability, clicking to activate the magnetic pull and releasing to let it go. Don't throw it too far or you'll miss the target! 
+
+Instructions:
+Use the mouse to move the crane arm
+Hold left mouse button to activate the magnetic pad
+Release left mouse to deactivate the magnetic pad
+

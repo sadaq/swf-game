@@ -1,0 +1,15 @@
+Title: The Mothership
+
+Width: 600
+
+Height: 420
+
+Tags: Quest, Space, Adventure
+
+Description:
+The mothership has finally returned to Earth and we need to find out what catastrophe happened to ruin its voyage. Explore the abandoned mothership in search of answers. Use your wit and puzzle-solving skills to advance through the ship. Check in periodically with your allies, Number 2 and 3, to be sure that they're still alive.
+
+Instructions:
+&middot; Movements = Left or Right Arrow Keys
+&middot; Enter Door = Up Arrow Key
+

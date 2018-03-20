@@ -1,0 +1,17 @@
+Title: Save The Sheriff
+
+Width: 640
+
+Height: 450
+
+Tags: Shooting, Survival, Defense
+
+Description:
+Save The Sheriff is a defence game of cowboys and Indians. The objective is to survive for 11 days until you recieve reinforcements. You must employ additional gunners and workers to help you hold off the Indian assault. Shoot by clicking the mouse as soon as you see the Indians so they can't get through the barricade and rescue their friends. Your gold will increase when you shoot each Indian allowing you to hire more people.
+
+Instructions:
+&amp;middot; &lt;b&gt;Move Left / Right / Crouch&lt;/b&gt; = A,S,D Keys
+&amp;middot; &lt;b&gt;Aim and Shoot&lt;/b&gt; = Use Mouse
+&amp;middot; &lt;b&gt;Change Guns&lt;/b&gt; = 1,2 Keys
+&amp;middot; &lt;b&gt;Reload&lt;/b&gt; = R Key
+

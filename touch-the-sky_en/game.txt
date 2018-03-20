@@ -1,0 +1,14 @@
+Title: Touch the Sky
+
+Width: 670
+
+Height: 600
+
+Tags: Airplane, Aeroplane, Flying
+
+Description:
+Touch the Sky a Flying Game. The basic aim is to fly as far as you can. You start with a basic glider and earn money the more you fly. Use these funds to upgrade your flying machine allowing you to get all the way across the junk yard. Use the arrow keys to control your craft and space bar will give you a boost once you are airborne.  Remember to watch out for the junk yard dogs, they bite! This game allows you to use FOG Coins to upgrade your craft so you can touch the sky in record time!
+
+Instructions:
+Use the arrow keys to steer the flying machine and spacebar for boost.
+

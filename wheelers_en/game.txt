@@ -1,0 +1,14 @@
+Title: Wheelers
+
+Width: 450
+
+Height: 300
+
+Tags: Bike, Racing, Motorbike, Sports
+
+Description:
+Strap that helmet on for the thunderous hum of super-bike racing. This game gives you a tire-burning look at the raw power of motorcycle racing. Lean into the tight curves of these notorious courses and pinch those handle bars because at these speeds, laying a super-bike down just might hurt. Use the arrow keys to accelerate and turn. Don't forget to refuel!
+
+Instructions:
+&middot; Control Bike = Use Arrow Keys
+

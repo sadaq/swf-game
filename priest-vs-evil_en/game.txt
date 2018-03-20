@@ -1,0 +1,16 @@
+Title: Priest Vs Evil
+
+Width: 700
+
+Height: 450
+
+Tags: Zombie, Coin, Fighting, Action
+
+Description:
+Priest Vs Evil is a crazy action game packed with holy retribution and gore galore! The evil undead have risen from their graves, taking your town by storm and infecting the locals with their grotesque disease. You're no peace-loving pastor, though; you're a vengeful priest who's not afraid to get his hands dirty to save the town! Pick up every weapon you can, from baseball bats to flamethrowers in your mission to bring evil to its knees!
+
+Instructions:
+Move left/right - Left/right arrow keys.
+Jump - Up arrow key.
+Attack - "L" key.
+

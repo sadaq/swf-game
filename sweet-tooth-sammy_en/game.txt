@@ -1,0 +1,15 @@
+Title: Sweet Tooth Sammy
+
+Width: 820
+
+Height: 600
+
+Tags: Action, Scoreboard, Puzzle, Skill, Logic
+
+Description:
+The day of Apocalypse has come: Earth has run out of sweets. You're Sammy, an astronaut who was given a very important and peculiar job: travel to distant planets in the Sugar Galaxy and dig right into their core to collect candy! You're all alone in your mission, and monsters lurk in the planets' depths. Can you stay alive and carry out your mission?
+
+Instructions:
+Arrow keys to move
+Arrow keys + space to drill to the left/right/up/down
+

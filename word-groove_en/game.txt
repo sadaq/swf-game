@@ -1,0 +1,14 @@
+Title: Word Groove
+
+Width: 640
+
+Height: 480
+
+Tags: Puzzle, Scoreboard, Logic, Word, Skill
+
+Description:
+Word Groove is an entertaining English Word Game. In the game you must select how many letters you wish to use. Once you do this you click on each letter in order to form a word, if you are successful the first letter of that word will be removed. You must repeat this process with the remaining letters until all letters are removed in order to win the game.
+
+Instructions:
+Either use the mouse to click on the letters or use your keyboard to press the letters.
+

@@ -1,0 +1,15 @@
+Title: Storm Rage
+
+Width: 600
+
+Height: 450
+
+Tags: Flying, Flight Simulator, Airplane, Aircraft, Aeroplane, Stunt, Racing
+
+Description:
+Do you like to fly? Here is a challenge for you Storm Rage. The main objective of this game is to try to beat the other opponent in a plane race. You must fly through hoops fast and defeat the other pilot in a lap race. You also gain point by flying through hoops but do so without hitting or crashing. You can boost your speed but do so at the right time. Try to do simple and exact maneuvers to ensure your victory.
+
+Instructions:
+&amp;middot; &lt;b&gt;Fly Up / Down&lt;/b&gt; = Up or Down Arrow Keys
+&amp;middot; &lt;b&gt;Boost&lt;/b&gt; = Space Bar
+

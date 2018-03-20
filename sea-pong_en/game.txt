@@ -1,0 +1,14 @@
+Title: Sea Pong
+
+Width: 600
+
+Height: 500
+
+Tags: Ping Pong, Sports, Water
+
+Description:
+Sea Pong is a modern day version of 'Pong' with extra features, and at the bottom of the ocean. Your aim is to control the octopus and get the puff ball past the other octopus, if you manage to hit the fishes you will get extra points and the other octopus will also get confused, making it easier to score. Don't let the ball get past your octopus though. Every four levels you win, you will get a bonus level.
+
+Instructions:
+&amp;middot; &lt;b&gt;Movements&lt;/b&gt; = Use Mouse
+

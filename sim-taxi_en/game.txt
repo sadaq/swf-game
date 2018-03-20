@@ -1,0 +1,17 @@
+Title: Sim Taxi
+
+Width: 640
+
+Height: 480
+
+Tags: RPG, Racing, Car, Taxi, Simulation, 3D
+
+Description:
+In Sim Taxi, the main objective of the game is to look for passengers and deliver them to their destinations as quickly as you possibly can but without damaging your car. A phone operator will help you locate customers but also you don't need to worry where the locations are becasuse there's a compass on the top left to guide you. 
+
+Instructions:
+&amp;middot; &lt;b&gt;Drive Around&lt;/b&gt; = Arrow keys
+&amp;middot; &lt;b&gt;Music On / Off&lt;/b&gt; = M or N Keys
+&amp;middot; &lt;b&gt;Radio&lt;/b&gt; = R Key
+&amp;middot; &lt;b&gt;Switch Radio Stations&lt;/b&gt; = 1,2,3 Keys
+

@@ -1,0 +1,14 @@
+Title: Sundown Shootout
+
+Width: 600
+
+Height: 400
+
+Tags: Shooting, Upgrade, Killing
+
+Description:
+In Sundown Shootout the idea is to fire your weapon very quickly and accurately. You must out gun your opponent and kill him to win a duel. Try to reach the target area quicker than your opponent. You can buy guns and clothes to increase your chances of winning. You can also play mini-games after you buy the required items in this quirky cowboy shooter.
+
+Instructions:
+&amp;middot; &lt;b&gt;Shoot Enemy&lt;/b&gt; = Mouse (move mouse to the target area then press left click button)
+

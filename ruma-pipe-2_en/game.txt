@@ -1,0 +1,15 @@
+Title: Ruma Pipe 2
+
+Width: 600
+
+Height: 500
+
+Tags: Puzzle
+
+Description:
+After playing Ruma Pipe here we present Ruma Pipe 2. The game-play is the same but now we can control the ring with the mouse which is easier. The game requires very good hand-eye coordination. Like in the first Ruma Pipe objective of the game is to avoid touching the pipe by maneuvering your ring. Do this until you reach the end of each level to win. It can be challenging at times but you can win it by focusing.
+
+Instructions:
+&amp;middot; &lt;b&gt;Move The Ring&lt;/b&gt; = Mouse
+&amp;middot; &lt;b&gt;Rotate&lt;/b&gt; = Using Left or Right Keys
+

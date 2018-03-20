@@ -1,0 +1,15 @@
+Title: Space Monkey
+
+Width: 520
+
+Height: 500
+
+Tags: Animal, Space, Defense, Shooting
+
+Description:
+In Space Monkey, the objective of the game is to destroy all the rocks. Trying to get as many power-ups as you can to aid you in obliterateing the flying rocks. A tip would be to hide in the right corner if you are in doubt. Using all the tools at your disposal to win! the game and achieve a high score on this very spacey game!
+
+Instructions:
+&amp;middot; &lt;b&gt;Move Left / Right&lt;/b&gt; = Use Mouse
+&amp;middot; &lt;b&gt;Aim and Shoot&lt;/b&gt; = Use Mouse (left click button)
+

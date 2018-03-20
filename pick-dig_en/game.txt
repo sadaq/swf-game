@@ -1,0 +1,14 @@
+Title: Pick n Dig
+
+Width: 640
+
+Height: 530
+
+Tags: Skill, Puzzle, Scoreboard, Logic
+
+Description:
+Pick and Dig is Puzzle game in which you collect all the mining tools and use them to clear your path and reach the exit! Use pick-axes, shovels and ladders to collect keys and open doors. Avoid your enemies and be careful not to get stuck! This game will put your logic to the test as you try and solve its increasingly difficult puzzles to complete each level! If you get stuck, you can RESTART again anytime.
+
+Instructions:
+Use the arrow keys to control your character.
+

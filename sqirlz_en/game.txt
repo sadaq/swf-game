@@ -1,0 +1,14 @@
+Title: sqirlz
+
+Width: 640
+
+Height: 460
+
+Tags: Skill, Scoreboard, Puzzle
+
+Description:
+Gravity can be your best friend or your worst enemy! In this innovative new physics-puzzle game, you'll have to help Sqirlz -- our squishy hero -- reach his jelly platform at the base of every structure by clicking on the red blocks that stand in the way you will eliminate them and give Sqirlz a route to the bottom. Using your wits, speed, and the power of gravity, solve each of these creative new puzzles to advance to the next stage!
+
+Instructions:
+Use the mouse to remove the blocks.
+

@@ -1,0 +1,17 @@
+Title: The Legend Of RobinHood
+
+Width: 650
+
+Height: 500
+
+Tags: Fighting, Medieval, Sword Fighting, Archery
+
+Description:
+The Legend Of RobinHood is a top down Adventure Game. Guide Robinhood through 5 areas eliminating all of the Sheriff of Notingham's soldiers. In order to progress, avoid their attacks and switch between weapons to defeat them, using the following keys, 1 for the bow, 2 for the sword and 3 for the crossbow. Destroy all the barrels to find arrows, armor and health.
+
+Instructions:
+&amp;middot; &lt;b&gt;Movements&lt;/b&gt; = W,A,S,D Keys
+&amp;middot; &lt;b&gt;Bow And Arrow&lt;/b&gt; = '1' Key
+&amp;middot; &lt;b&gt;Sword&lt;/b&gt; = '2' Key
+&amp;middot; &lt;b&gt;Attack&lt;/b&gt; = Use Mouse (left click button)
+

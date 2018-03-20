@@ -1,0 +1,16 @@
+Title: The Last Fight
+
+Width: 600
+
+Height: 420
+
+Tags: War, Shooting, Monster
+
+Description:
+In the last fight you are a commando of TLF squad, you are dropped onto an enemy base on a different planet. Your mission is to destroy the base by killing everyone there. You have your machine gun and can shoot in every direction, you can also see incoming enemy fire and can avoid it by jumping over bullets or lying down. If you get shot and are low on health, collect the health packs to help regain health. Also beaware of the beasts that live in dark caves.
+
+Instructions:
+· Movements = Arrow Keys
+· Shoot = Z Key
+· Jump = X Key
+

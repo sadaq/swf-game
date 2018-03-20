@@ -1,0 +1,14 @@
+Title: The Railway Robot's Road Trip
+
+Width: 640
+
+Height: 650
+
+Tags: Skill, Puzzle, Scoreboard, Logic
+
+Description:
+Help Robby the Railway Robot reach his lovely robo-girlfriend Roberta! Aide him by switching and rotating part of the railway, while accumulating as many points as you can to raise your score! But be wary of the evil robotic policemen that will try to stop you, and avoid the mat all costs! An addictive puzzler that will test your logic!
+
+Instructions:
+Use the mouse to click sections of the track in order to move them along with Robby the Robot.
+

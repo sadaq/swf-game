@@ -1,0 +1,14 @@
+Title: Ufo Terminator
+
+Width: 640
+
+Height: 480
+
+Tags: Aiming, Action, Shooting, War, Army
+
+Description:
+Save the people in your village from the invading UFOs! Don't let your fellow citizens get abducted in this addictive shooter! Upgrade your firepower and skills as you progress: the aliens will become stronger and faster with every level! Can you save the day and repel the alien menace once and for all?
+
+Instructions:
+Use the mouse to aim, left click to shoot.
+

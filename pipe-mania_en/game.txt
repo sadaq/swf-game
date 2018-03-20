@@ -1,0 +1,28 @@
+Title: Pipe Mania
+
+Width: 498
+
+Height: 498
+
+Tags: Puzzle
+
+Description:
+Pipe Mania is where you take the role of being a Plumber. A huge surge of water is expected to come your way and you have to very quickly lay the pipes in order to make the water reach the drain. There is a timer counting down to keep you on your feet. The fewer pipes you use the higher your score. As the levels progress, newer pipe pieces are introduced to make the game more challenging. 
+
+Instructions:
+This a real brain teaser and additive game. Well, the aim of the game is to use various pipe fittings available in order to construct a pipe line from the water source to the shower nozzle in the shortest time possible.....Pipe Mania has been described as "A real skill game that'll keep you on your toes for a while".
+
+
+	
+		Controls:
+	
+	
+		
+	
+	
+		Use the mouse to curve arrow to rotate the piece and Left click on the empty space to place the particular piece.
+	
+
+
+
+

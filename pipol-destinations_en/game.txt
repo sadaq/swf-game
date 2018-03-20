@@ -1,0 +1,15 @@
+Title: Pipol Destinations
+
+Width: 620
+
+Height: 520
+
+Tags: Building, Managing, Lemmings Style, Puzzle, Matching
+
+Description:
+Pipol Destinations is an amazing strategy game. Its a bit like lemmings but different. The aim of the game is to guide the little 'Pipol' to their respective destinations. Each and every one must be guided safely to their canteen, bus or police station in order to complete all 20 levels. To do this you use your mouse to dig a path for them. Do not let the 'Pipol' fall too far by digging straight downward or they will die. You can use the spacebar to switch between the digging and filling tool.
+
+Instructions:
+&amp;middot; &lt;b&gt;Dig&lt;/b&gt; = Use Mouse (click and drag)
+&amp;middot; &lt;b&gt;Replace Ground&lt;/b&gt; = Space Bar
+

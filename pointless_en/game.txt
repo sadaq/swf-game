@@ -1,0 +1,15 @@
+Title: Pointless
+
+Width: 360
+
+Height: 400
+
+Tags: Adventure, Platform
+
+Description:
+Pointless is a nice, little, jump and run adventure game with no story at all!!! The aim is to run through the different challenging levels collecting gold coins. Try to reach the end of each level to proceed to the next. You are not equipped with any weapons, so dodge the enemies at all cost. Try to complete all the levels and as quickly as possible.
+
+Instructions:
+&middot; Movements = Use Left or Right Arrow Keys
+&middot; Jump = Use Space Bar
+

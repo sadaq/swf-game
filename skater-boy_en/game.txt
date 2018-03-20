@@ -1,0 +1,14 @@
+Title: Skater Boy
+
+Width: 600
+
+Height: 600
+
+Tags: Urban Sports, Arcade, Skate Boarding
+
+Description:
+Play as a skater boy, testing your skills by skating through a tunnel. See how far you can get while avoiding all the obstacles scattered throughout the place. Keep your eyes open for what's coming next and be ready to jump, duck or move to one side. It's game over if you hit these more then four times. The speed and difficulty will also increase as you progress through the levels.
+
+Instructions:
+&middot; Skate = Use Arrow Keys
+

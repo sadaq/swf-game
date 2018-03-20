@@ -1,0 +1,15 @@
+Title: Parabirds
+
+Width: 640
+
+Height: 480
+
+Tags: Aiming, Action, Shooting, War, Army
+
+Description:
+The birds are attacking the Beavers! Flying above, they're bombarding you with their elite paratroopers! Get on board the Beaver Cannon and shoot down your aggressors before they drop their dangerous cargo! Upgrade your cannon as you progress in the game. Can you save the Beavers from the feathered menace?
+
+Instructions:
+Use the mouse to aim the cannon. Left click to shoot.
+Be sure to lead your target to take shell velocity into account.
+

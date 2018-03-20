@@ -1,0 +1,17 @@
+Title: Tower Supremo
+
+Width: 670
+
+Height: 600
+
+Tags: Puzzle, Physics, Scoreboard, Building, Balance
+
+Description:
+Tower Supremo is a Physics Game, where the challenge is to stack the limited number of blocks to build the tallest tower possible. Do not let it get too unstable or else it will fall like a house of cards! You can choose which blocks you want to use where. Use the mouse to move your crane, grab the bricks and leave them where you want. Use the space-bar key to spin the bricks.
+
+Instructions:
+&middot; Move the crane - Use the mouse
+&middot; Grab a piece - Left click
+&middot; Release a piece - Left click once a piece is grabbed
+&middot; Rotate piece - Spacebar
+

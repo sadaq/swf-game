@@ -1,0 +1,19 @@
+Title: Swat Attack
+
+Width: 700
+
+Height: 400
+
+Tags: Shooting, Police
+
+Description:
+Swat Attack is a shooting game, try and kill all of the swat and FBI agents. Survive through the gunfights and chopper attacks. Try to shoot them quickly before they can give you any damage and use different guns and grenades if you wish, the enemies bullets travel quite slowly so you can jump over them if you time it correctly.
+
+Instructions:
+&middot; Movements = W,A,S,D Keys
+&middot; Shoot = Mouse
+&middot; Climb = E Key
+&middot; Throw Grenades = Q Key
+&middot; Duck = Ctrl Key
+&middot; Change Guns = 1 - 5 Keys
+

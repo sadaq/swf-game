@@ -1,0 +1,14 @@
+Title: Push It
+
+Width: 550
+
+Height: 450
+
+Tags: Strategy, Maze, Puzzle
+
+Description:
+Push It is a fun Sokoban clone with nice graphics and challenging puzzles. The object of the game is to push the boxes into the designated colored areas. Although you are not able to push two or more boxes at once. If you ever make a wrong move or get stuck you always have the option to restart the level. Have fun playing the game and good luck!
+
+Instructions:
+&middot; Movements = Use Arrow Keys
+

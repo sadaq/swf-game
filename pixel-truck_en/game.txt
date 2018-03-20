@@ -1,0 +1,18 @@
+Title: Pixel Truck
+
+Width: 800
+
+Height: 600
+
+Tags: Driving, Truck, Fun, Distance
+
+Description:
+A 2D Truck Driving Game where you have to race trough endless levels of gameplay. Avoid being crushed by falling cargo crates. Click and hold down to accelerate and let go to break.
+The aim is to see who can drive the furthest: you or your friends?
+- 2D Truck Game 
+- Beautiful Pixel Artwork 
+- Endless Gameplay 
+
+Instructions:
+Click and hold to move.
+

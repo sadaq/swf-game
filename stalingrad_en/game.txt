@@ -1,0 +1,14 @@
+Title: Stalingrad
+
+Width: 550
+
+Height: 400
+
+Tags: Upgrade, Survival, Building, Strategy, Defense, Tower Defense, Army, War
+
+Description:
+Stalingrad is a WW1 based Tower Defense Game. Place defensive weapons in good positions around the path the enemy take, to guard your base. You can upgrade your defenses and place them just as you like, however you need to make sure they do as much damage as possible. A strategy would be to try and be diversive, because sticking to one type of weapon will not work well against all units. Try to kill all units for maximum gold and better defenses in the coming rounds. Watch out for air units.
+
+Instructions:
+&amp;middot; &lt;b&gt;Play This Game&lt;/b&gt; = Use Mouse (point and click)
+

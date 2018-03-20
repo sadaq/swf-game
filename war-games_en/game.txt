@@ -1,0 +1,16 @@
+Title: War Games
+
+Width: 550
+
+Height: 400
+
+Tags: Shooting, War, Killing, Gun
+
+Description:
+War has begun! Take your soldier onto the battlefield and provide him the training necessary. In this first installment, you are pitted against 3 opponents using paintball guns to learn the art of warfare. Strafing behind crates provide excellent cover, but do not allow you to shoot over, so you have to be a quick thinker. A fun feature added is a time shift, allowing to to slow down time to get a better understanding of the field. Become a leader, not a follower in War Games!
+
+Instructions:
+&middot; Movements = Arrow keys
+&middot; Shoot = Mouse
+&middot; Slow Motion Mode = Shift key
+

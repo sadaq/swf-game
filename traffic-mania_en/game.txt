@@ -1,0 +1,15 @@
+Title: Traffic Mania
+
+Width: 640
+
+Height: 480
+
+Tags: Strategy, Managing, Management, Fun, Traffic, Car, Puzzle, Driving, Simulation
+
+Description:
+The traffic in this city is getting uncontrollable, so we need your help! Guide the traffic coming from different directions on this chaotic intersection in this action-based puzzle game. Use the helicopter for assistance to clean up the streets after an unfortunate break-down. Don't let the cars sit for too long -- they want to get home!
+
+Instructions:
+Click the icons to move the traffic in a direction, click again to halt traffic.
+Click the helicopter to pickup broken down vehicles.
+

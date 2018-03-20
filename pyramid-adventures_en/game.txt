@@ -1,0 +1,17 @@
+Title: Pyramid Adventures
+
+Width: 600
+
+Height: 400
+
+Tags: Zombie, Shooting, Adventure
+
+Description:
+In Pyramid Adventures you play the role of a heroic explorer who wants to find out the secret of the ancient Egyptian tombs. That is easier said than done as you will come across mummies who will want to kill you, battle these mummies and defend yourself. The mummies will turn back into mine workers if you throw ace grenades at them. You can use your stunt gun to slow them down but in the end you must turn them all into workers in order to move further. At the end of each level you will be rewarded with treasures.
+
+Instructions:
+&amp;middot; &lt;b&gt;Movements&lt;/b&gt; = Arrow keys
+&amp;middot; &lt;b&gt;Fire Stun Gun&lt;/b&gt; = Z Key
+&amp;middot; &lt;b&gt;Throw Ace - Blood Serum&lt;/b&gt; = X Key (hold and release for longer throw)
+
+

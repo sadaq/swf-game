@@ -1,0 +1,14 @@
+Title: Robot Cake Defender
+
+Width: 670
+
+Height: 392
+
+Tags: Shooting
+
+Description:
+Robot Cake Defender is a fast paced Shooting and Defending game. Hundreds of robots are jumping down the platforms and trying to steal your cake. Shoot as many as you can. Pick up barriers that block them for a short while, mines that blow the robots up if they are close and tiles that double the size of the robots, so they are easier to hit.
+
+Instructions:
+Use your mouse to shoot the robots and defend the cake. Make sure you shoot the power ups to help you fight off those cake eating mechanical monsters and save the day.
+

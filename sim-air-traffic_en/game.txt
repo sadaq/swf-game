@@ -1,0 +1,15 @@
+Title: Sim Air Traffic
+
+Width: 600
+
+Height: 550
+
+Tags: Airplane, Managing, Simulation, Scoreboard, Point and Click
+
+Description:
+This is an Airport Management Simulator of a Game. Managing an airport is a tricky business! Can you keep up with all the tasks, landing planes, refuelling and taking off without creating any accidents? There are 5 levels in total and you begin with a single landing strip airport. Eventually you grow to manage bigger and more business airports with multiple landing strip. Click on planes to make them taxi, slow down, land and take off etc.
+
+Instructions:
+&middot; Select a plane - Left-click a plane
+&middot; Select an action - Left-click an action from the actions list once a plane is selected
+

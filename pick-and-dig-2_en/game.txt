@@ -1,0 +1,14 @@
+Title: Pick and Dig 2
+
+Width: 640
+
+Height: 530
+
+Tags: Platform, Physics, Logic, Puzzle, Skill, Scoreboard, Adventure
+
+Description:
+Pick and Dig is back, and there's loads more to do in this side-scrolling action puzzle, you have to pick through rock walls and dig through the earth to complete each stage. Grab ladders to climb over spaces. Every item you have can only be used once, so use your resources (and your environment) carefully! You'll really have to think ahead and use everything you can to your advantage if you want to get out of all the mazes!
+
+Instructions:
+Use the arrow keys to move.
+

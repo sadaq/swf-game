@@ -1,0 +1,20 @@
+Title: Tanks V2
+
+Width: 550
+
+Height: 400
+
+Tags: Shooting, Strategy, War, Defense, Military, Tank
+
+Description:
+A turn-based strategy game of tactics and skill, similar to Worms. Blast away your rival tanks before they get you! Use various weapons such as the volcano bomb, small missile, and power-ups to gain the upper-hand. Carefully position yourself and aim your weapons just right. The environment is fully destructible, so use that to your advantage!
+
+Instructions:
+&middot; Move Left/Right = Left/Right Arrow Key
+&middot; Rotate Cannon Up/Down = Up/Down Arrow Key
+&middot; Increase Power = Page Up Key
+&middot; Decrease Power = Page Down Key
+&middot; Next Weapon = W Key
+&middot; Previous Weapon = Q Key
+&middot; Fire = Space Bar
+

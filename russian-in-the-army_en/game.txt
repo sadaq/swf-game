@@ -1,0 +1,15 @@
+Title: Russian in the Army
+
+Width: 550
+
+Height: 400
+
+Tags: Strategy, Killing, Army
+
+Description:
+In Russian in the Army you are an agent sent to plant a time bomb precisely to inflict as much damage to the Russian army as possible. The bomb will set off after 5 seconds so be careful where and when you plant it. A tip to winning the game is to look out for a clusters of enemy personnel required for the mission and predict when they will intersect. Killing high ranking officers give you extra points.
+
+Instructions:
+&amp;middot; &lt;b&gt;Move Left / Right&lt;/b&gt; = Left or Right Arrow Keys
+&amp;middot; &lt;b&gt;Plant Bomb&lt;/b&gt; = Space Bar
+

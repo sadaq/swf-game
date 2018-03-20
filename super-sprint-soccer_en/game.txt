@@ -1,0 +1,14 @@
+Title: Super Sprint Soccer
+
+Width: 800
+
+Height: 600
+
+Tags: Football, Scoreboard, Ball, Soccer
+
+Description:
+In this table-top soccer match with a new twist, you'll have to use your team of players to complete your goals on a variety of challenging puzzle matches. Click and drag to fling your players toward the soccer ball to pass or shoot. Place your teammates strategically to set up the shot. Don't let your players fly into the opponents or you'll get a foul!
+
+Instructions:
+Use the mouse to control the player, pull away from the player to increase force.
+

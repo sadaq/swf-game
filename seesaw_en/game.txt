@@ -1,0 +1,14 @@
+Title: Seesaw
+
+Width: 660
+
+Height: 500
+
+Tags: Word, Puzzle
+
+Description:
+Seesaw is a Word Finding Puzzle Game. You have been captured, and must fight to stay alive by solving the puzzles. Find and select words hidden in the grid to get a score. You can only select letters directly next to the letter you last selected. Reach the target score before the time runs out to move to the next level. There are three bonus words hidden in each level, click the 'I need help' button to see a hint for each word.
+
+Instructions:
+&amp;middot; &lt;b&gt;Play This Game&lt;/b&gt; = Use Mouse (point and click)
+

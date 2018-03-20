@@ -1,0 +1,14 @@
+Title: Police Interceptor
+
+Width: 640
+
+Height: 455
+
+Tags: Driving, Car, Racing
+
+Description:
+Police Interceptor a driving game that puts you behind the wheel of a cop car. Complete all of the tasks you are set from driving at speed and not hitting anyone, or anything, to preforming the pit manoeuvre and driving on different surfaces such as water and ice. You can go really fast, and do hand-brake turns whilst blasting your siren to alert people you are coming.
+
+Instructions:
+Use the arrow keys to drive. Spacebar to hand break and Ctrl to use the siren. 
+

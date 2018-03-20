@@ -1,0 +1,14 @@
+Title: Porsche Jigsaw Puzzle
+
+Width: 640
+
+Height: 480
+
+Tags: Puzzle, Jigsaw Puzzles, Car
+
+Description:
+A simple jigsaw puzzle featuring a Porsche race car.
+
+Instructions:
+Use your mouse to arrange the pieces.
+

@@ -1,0 +1,14 @@
+Title: Putt It In
+
+Width: 700
+
+Height: 500
+
+Tags: Golf, Sports, Mini Putt, 3D
+
+Description:
+Putt It In is an awesome flash crazy-golf game where you can either play solo or against a friend, the objective of the game is to putt your ball into the hole with the least number of attempts possible. Try to figure out the course and try to get a hole-in-one. The general strategy here is to know the terrain and take control of the putting strength. It is now time you select a game mode, pick a character and name then get putting! Know your strength, calculate every angle, and become a champion! Now time to get yourself on the golf course.
+
+Instructions:
+&amp;middot; &lt;b&gt;Hit The Ball&lt;/b&gt; = Use Mouse (left click button)
+

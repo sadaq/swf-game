@@ -1,0 +1,15 @@
+Title: Skeet Shooting
+
+Width: 570
+
+Height: 400
+
+Tags: Target Practicing, Shooting
+
+Description:
+Skeet Shooting is a popular competitive shooting sport where you have to shoot clay disks flung into the air at high speed from a variety of angles, using a hunting rifle. In each level you have to try and shoot down as many clay disks as you can to earn the highest points. Make sure you reload at every chance, having to find the time to reload while the disks are firing will loose you vital time and points.
+
+Instructions:
+&middot; Aim and Shoot = Use Mouse
+&middot; Reload = R Key
+

@@ -1,0 +1,14 @@
+Title: Tower of ZZZ
+
+Width: 624
+
+Height: 416
+
+Tags: Logic, Puzzle, Scoreboard
+
+Description:
+The guests of your hotel have started sleepwalking! It's up to you to catch them with your elevators and bring them safely back to the lobby before they fall out of the hallway windows! Move the elevators around the building to catch a variety of weird and wonderful guests and save the day in Tower of ZZZ!
+
+Instructions:
+Use either the mouse on the slider, A and D keys or Left and Right arrow keys to rotate your elevators around your hotel building to save your guests.
+

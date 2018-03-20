@@ -1,0 +1,14 @@
+Title: Paper Kid
+
+Width: 670
+
+Height: 600
+
+Tags: Bike, Classic, Scoreboard
+
+Description:
+Paper Kid is a bike based Delivery Game. You take on the role of the neighbourhood's newspaper delivery boy and deliver all the papers you can. You have to keep control of your bike and throw the papers from your bike whilst cars, dogs and passers-by will make your job much more difficult than you'd expect! The more papers you deliver, the more customers you'll gain!
+
+Instructions:
+Use the arrow keys to control your bike while space bar throws your papers.
+

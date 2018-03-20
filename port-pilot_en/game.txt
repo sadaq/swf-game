@@ -1,0 +1,14 @@
+Title: Port Pilot
+
+Width: 670
+
+Height: 600
+
+Tags: Scoreboard, Logic, Management, Traffic, Simulation, Ship
+
+Description:
+Port Pilot is a new and interesting action-puzzle game with a unique twist. Each boat will enter your waters with multiple, differently colored packages. By clicking and dragging on a particular boat, you can draw out the course of action and help the boats to unload all the packages into their corresponding colored ports. This never-before-seen challenge is both fun and difficult.
+
+Instructions:
+Use the mouse to click on a ship then drag a path to the coloured docks to unload.
+

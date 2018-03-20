@@ -1,0 +1,17 @@
+Title: War Elephant 2
+
+Width: 670
+
+Height: 600
+
+Tags: Army, Strategy, Management, War
+
+Description:
+War Elephant 2 is the long-awaited sequel to War Elephant! This time a new foe has invaded your borders: the formidable, bloodthirsty Crusades! Their numbers are vast, and their artillery makes them a force to be reckoned with. Guide your army to victory, with your trusty war elephant on the front line, using your wits and strategic expertise to select the right units to send forth! They might have the numbers, but you have experience and tact on your side!
+
+Instructions:
+Move elephants - Use arrow keys, or click directional arrow buttons.
+Summon squads - Press viking/archer buttons.
+Fire arrows - Press the various arrow buttons on the left
+Charge elephant - Press elephant button
+

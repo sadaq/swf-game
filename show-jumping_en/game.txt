@@ -1,0 +1,15 @@
+Title: Show Jumping
+
+Width: 520
+
+Height: 390
+
+Tags: Animal, Horse, Sports, 3D, Jumping
+
+Description:
+Show Jumping is a horse jumping game in which you must guide your horse around the track and cleanly jump over each obstacle that presents itself. Press the up arrow key to run faster and the space key to jump whilst in this mode, but be warned, your horse will become tired and needs time to regenerate, and you can only fail two jumps before you are disqualified.
+
+Instructions:
+&middot; Horse Movements = Arrow Keys
+&middot; Jump = Space Bar
+

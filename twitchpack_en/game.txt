@@ -1,0 +1,15 @@
+Title: Twitchpack
+
+Width: 800
+
+Height: 650
+
+Tags: Plane, Aeroplane, Flying, Scoreboard, Airplane
+
+Description:
+Survive a meteorite onslaught in this old-style flying game! Steer your rocket-pack and collect coins and items in the sky while you try and avoid the deadly rocks falling upon you! Collect enough coins while soaring high in the sky to upgrade your equipment and weaponry. Are your flying skills good enough to achieve a high score?
+
+Instructions:
+Use the mouse to steer your rocketpack in the right direction. 
+Hold left mouse button to use the rocketpack.
+

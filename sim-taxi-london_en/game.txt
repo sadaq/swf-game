@@ -1,0 +1,18 @@
+Title: Sim Taxi London
+
+Width: 670
+
+Height: 600
+
+Tags: Car, Taxi, Coin, Driving
+
+Description:
+Sim Taxi London is bringing the classic taxi-driving game to an all-new location! Drive passengers to their destination, dodging cars, weaving past buses and taking tight turns! Make sure you take the shortest route you can, because if you take too long, your passengers won't pay you, and worse still, you'll waste precious gas! Best be careful too, because if your taxi takes too much damage, you'll have to pay for the repairs, too!
+
+Instructions:
+Accelerate - Up arrow key
+Turn left/right - Left/right arrow keys
+Reverse - Down arrow key
+Brake - Spacebar
+Select upgrades - Mouse
+

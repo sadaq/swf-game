@@ -1,0 +1,16 @@
+Title: Pro Skate
+
+Width: 670
+
+Height: 480
+
+Tags: Scoreboard, Skate Boarding, X, Stunt, Urban Sports
+
+Description:
+Pro Skate is a realistic urban Skate Boarding Game.  Play by skate boarding your way through the levels and performing various tricks. Try jumping up onto the railings and other obstacles collecting the stars along the way for extra points. Falling off your skateboard will cause you lose a life. The longer you take to complete a level, the more bonus points you lose.
+
+Instructions:
+·Navigate= Arrow keys
+·Perform Stunts= C, Z, X keys
+·Jump= Space Bar
+

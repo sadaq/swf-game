@@ -1,0 +1,15 @@
+Title: Space Blocks
+
+Width: 315
+
+Height: 465
+
+Tags: Puzzle, Strategy, Classic
+
+Description:
+It's Tetris...in space! Move the dropping blocks into position to create lines. These lines will then be removed, and added to your total score. The game gives you a little help...the arrow keys can be used to rotate each shape to fit those "hard to reach" places. Plus, you get a preview of what's coming up. If the blocks reach the top of the grid...
+
+Instructions:
+· Rotate Pieces = Arrow Keys
+· Drop Them = Space Bar
+

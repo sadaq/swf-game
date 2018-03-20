@@ -1,0 +1,16 @@
+Title: Valet Parking 3
+
+Width: 670
+
+Height: 550
+
+Tags: Parking, Skill, Car, Driving
+
+Description:
+Valet Parking 3 is a Car Parking Game. You must run to the cars as they are dropped off by their owners. Take note of the number of the bay they must be parked at. Press the space-bar button to get and park it as quickly as possible without crashing. Then when the owners come back, you must take their cars back to them. You earn money for dropping cars off, but lose money for damage and customers who are left waiting for too long.
+
+Instructions:
+Up arrow key - Accelerate
+Down arrow key - Reverse
+Left/right arrow keys - turn left/right
+

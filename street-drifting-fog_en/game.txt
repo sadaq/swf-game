@@ -1,0 +1,14 @@
+Title: Street Drifting
+
+Width: 400
+
+Height: 400
+
+Tags: Car, Stunt, Racing
+
+Description:
+Your aim is to finish each Street Drifting level in one of the top three positions to progress in the next one? To clear every exciting race track, you need to utilize your skills in controlling the car against different tricky turns and bends, as the car drifts very easily. Try to get the lead from the start as it's a lot easier to stay in front than to be left behind and try to get ahead other racers.
+
+Instructions:
+&amp;middot; &lt;b&gt;Control Your Car&lt;/b&gt; = Use Arrow Keys
+

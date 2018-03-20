@@ -1,0 +1,19 @@
+Title: The Professionals II
+
+Width: 650
+
+Height: 390
+
+Tags: Hitman, Killing, Stealth, Shooting
+
+Description:
+In The Professionals 2, you are playing a smartly dressed hitman. You are to infiltrate the bad guys building. You have a pistol and have to very quietly explore every level and room in their building. Look out for enemy units, you must shoot them on the spot or else they might shoot you. Also reload your gun before you leave each zone to avoid running out of ammo during a gun battle.
+
+Instructions:
+&middot; Walk = 	Left / Right Arrow Keys
+&middot; Crouch = Down Arrow Key
+&middot; Enter Door = Up Arrow Key
+&middot; Run = Left / Right Arrow Keys + S Key
+&middot; Shoot = D Key
+&middot; Reload = R Key
+

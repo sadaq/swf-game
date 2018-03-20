@@ -1,0 +1,15 @@
+Title: Pirates vs Ninja
+
+Width: 550
+
+Height: 400
+
+Tags: Ninja, Killing, Fighting, Sword Fighting, Pirate
+
+Description:
+We all love pirates and ninja games now we have the both of them in a single game Pirates vs Ninja. This is a sword fighting game in which you are a ninja but a drunken pirate as well. You can jump, double jump, run, defend and swing the sword in front of your enemies but try to not get hit because a single sword strike is enough to end your life. You will start with 20 but don`t waste them. Every area will open after a number of kills so stay sharp and move further when you have the chance.
+
+Instructions:
+&amp;middot; &lt;b&gt;Movements&lt;/b&gt; = Arrow Keys
+&amp;middot; &lt;b&gt;Attack&lt;/b&gt; = S Key
+

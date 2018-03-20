@@ -1,0 +1,15 @@
+Title: Raging Steel
+
+Width: 550
+
+Height: 440
+
+Tags: Shooting, Army, War, Tank
+
+Description:
+In Raging Steel, the aim of the game is to destroy as many hostile forces as you can without yourself being destroyed. Your tank has a lot of armor but it can only withstand enemy attacks for so long before exploding. Try to dodge enemy bullets and missiles by manoeuvring laterally whilst shooting. Give ‘em hell, soldier, and good luck!
+
+Instructions:
+&amp;middot; &lt;b&gt;Movements&lt;/b&gt; = W,A,S,D Keys
+&amp;middot; &lt;b&gt;Shoot&lt;/b&gt; = Use Mouse (left click button)
+

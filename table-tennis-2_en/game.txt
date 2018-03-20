@@ -1,0 +1,14 @@
+Title: Table Tennis 2
+
+Width: 520
+
+Height: 390
+
+Tags: Sports, Tennis, Ping Pong
+
+Description:
+Table Tennis 2 is a indoor sports game in which you must play against the computer and attempt to win all levels set out before you. Fast reactions and quick reflexes are a must as you must creatively hit the ball in such a way that your opponent fails to hit it back, if this happens you will score a point. Score 11 points to win the game and defeat your opponenet.
+
+Instructions:
+&middot; Hit The Ball = Use Mouse
+

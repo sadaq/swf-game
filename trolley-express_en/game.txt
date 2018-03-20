@@ -1,0 +1,14 @@
+Title: Trolley Express
+
+Width: 640
+
+Height: 480
+
+Tags: Delivery, Car, Driving, Simulation, Puzzle
+
+Description:
+Can you deliver all the right packages to the right customers before the time runs out? Help your trolley delivery service deliver the goods on time in this quirky drive-and-delivery game! Guide the trolley on the road using your keyboard arrows, but don't overdo it! Speeding up too much will make it difficult to stop under the right shops, and you don't want to break any crates!
+
+Instructions:
+Use the arrow keys to move.
+

@@ -1,0 +1,15 @@
+Title: Urban Sniper
+
+Width: 600
+
+Height: 480
+
+Tags: Shooting, Sniper, Stickman, Killing
+
+Description:
+Urban Sniper is a Sniper Shooting Game. You must complete the aim of each mission you take. You have limited bullets of only 50 for the entire game so be accurate and dont waste any. Hints to you're mission are shown on the on the lower left side. Sometimes shooting other things like car fuel tanks will help to kill more than one person or distract people or shooting a moving cars tyre will make it have an accident.
+
+Instructions:
+&amp;middot; &lt;b&gt;Shoot&lt;/b&gt; - Use the mouse
+&amp;middot; &lt;b&gt;Zoom In / Out&lt;/b&gt; - Space Bar
+

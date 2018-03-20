@@ -1,0 +1,14 @@
+Title: Solitaire
+
+Width: 670
+
+Height: 550
+
+Tags: Puzzle, Card, Solitaire
+
+Description:
+The aim Solitaire is to make 4 piles of cards on the top rights hand corner, from the Ace to the King card. There are several card piles already placed on the board and a big pile at the top left. You can move the cards between the piles on the board. You can only bring cards down from the top pile. You can also click the top pile to see each and every card in it. You can only see new cards in the bottom pile after you remove the top card. The cards on the board you can only arrange with alternating red and black cards. This game requires considerable strategy but winning is still quite common for experienced players.
+
+Instructions:
+&middot; Play This Game = Use Mouse
+

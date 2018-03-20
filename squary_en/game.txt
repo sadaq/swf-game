@@ -1,0 +1,14 @@
+Title: Squary
+
+Width: 800
+
+Height: 650
+
+Tags: Mouse, Puzzle, Strategy, Unity, Jumping
+
+Description:
+Squary is a unique puzzle game, where you try and get the highest score possible in a single run of the game. Score more points by surviving each level with as little deaths as possible. Jump the boxes on each floor to make it to the end of the level, watch out for the power up which help and hinder your progression.
+
+Instructions:
+Click to jump over 
+

@@ -1,0 +1,16 @@
+Title: Super K9
+
+Width: 600
+
+Height: 400
+
+Tags: Adventure, Animal, Platform, Dog, Managing
+
+Description:
+Play as Super K9 and guide the blind man to his destination. The path is littered with obstacles that the dog must deal with for the man to get through. K9 can transform into a variety of forms, from an umbrella to a spring board, use these to help you along the way. Make sure you know exactly which one you need to use for each part of the level. A tip would be to master the hot keys 1-5 so you can change forms quickly.
+
+Instructions:
+· Movements = Arrow Keys
+· Change Forms = 1,2,3,4 Keys
+· Change Direction = 5 Key
+

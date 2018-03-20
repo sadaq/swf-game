@@ -1,0 +1,17 @@
+Title: Sky Knight 2
+
+Width: 640
+
+Height: 570
+
+Tags: Flying, Aircraft, Airplane, Shooting
+
+Description:
+In Sky Knight 2, it's make or break as you take on the menacing sky battalion, armed only with your plane, your guns, and if you're lucky... a friend.  Be a one-man air army, or team up with a fellow sky knight to defeat the unrelenting enemy force.  Either way, you'll be outnumbered, so stay sharp!
+
+Instructions:
+To move: W,A,S,D keys or mouse (two-player).
+To fire: M or Left Mouse Button
+Use bomb: N or Enter key.
+Pause game/shop: Spacebar
+

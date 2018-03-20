@@ -1,0 +1,14 @@
+Title: Quad Trials
+
+Width: 700
+
+Height: 470
+
+Tags: Car, Driving, Bike, Scoreboard
+
+Description:
+Quad Trials is a driving game which includes five different levels with many difficult objects you have to overcome to complete each level driving your quad bike.  Use the arrow keys on your keyboard to ride your bike and use spacebar to jump when neccessary over the difficult objects.  Once you have complete all of the five different levels you can then submit your score and compete against other quad biking fantatics and see who has the best score.
+
+Instructions:
+Drive with the arrow keys and use the spacebar to jump.
+

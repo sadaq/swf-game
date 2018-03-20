@@ -1,0 +1,39 @@
+Title: The Professionals 3
+
+Width: 650
+
+Height: 500
+
+Tags: Shooting, Platform, Killing, Strategy, Stealth, Hitman
+
+Description:
+There has been some hacker who has messed with the wrong guy and stole from him in The Professionals 3. It is now payback time! You can use various tricks at your disposal to accomplish your dastardly goals. You can shoot the lights, break the guy's neck, throw knives and much more! Good luck now catch that hacker. 
+
+Instructions:
+&lt;p&gt;
+The objective of the game is to get to the end of each level without getting killed. Try to kill your enemies as quickly as possible or avoid them by using stealth. Try not to let the alarm sound. Have Fun!
+&lt;/p&gt;
+&lt;table border=&quot;0&quot; summary=&quot;&quot;&gt;
+	&lt;tr&gt;
+		&lt;td&gt;&lt;b&gt;Crouch, Walk Left and Right&lt;/b&gt;&lt;/td&gt;
+		&lt;td&gt;Down, Left and Right arrow keys&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;&lt;b&gt;Enter door/Use/Hide&lt;/b&gt;&lt;/td&gt;
+		&lt;td&gt;Up arrow key&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;&lt;b&gt;Run&lt;/b&gt;&lt;/td&gt;
+		&lt;td&gt;Shift&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;/tr&gt;
+		&lt;tr&gt;
+		&lt;td&gt;&lt;b&gt;Shoot, Reload, Shoot lights&lt;/b&gt;&lt;/td&gt;
+		&lt;td&gt;D, R, W keys&lt;/td&gt;
+	&lt;/tr&gt;
+			&lt;tr&gt;
+		&lt;td&gt;&lt;b&gt;Break neck, Throw knife, Change weapon&lt;/b&gt;&lt;/td&gt;
+		&lt;td&gt;A, S, Space bar&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+

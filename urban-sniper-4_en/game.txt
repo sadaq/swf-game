@@ -1,0 +1,14 @@
+Title: Urban Sniper 4
+
+Width: 670
+
+Height: 600
+
+Tags: Stickman, First Person Shooting, Gun, Shooter, Shooting, Stickmen, Accuracy, Aiming
+
+Description:
+This is the 4th episode of Urban Sniper, the Shooting Stickman Game. Click on the gun to raise it and hit the spacebar to look through the telescopic sight. You are hired to take out certain targets. Which can be anything from taking down corrupt cops to taking out cats in a junk yard. Try and complete all the levels because there is a twist in the story near the end.
+
+Instructions:
+Use the mouse to pickup the gun. Spacebar to aim and left click shoots.
+

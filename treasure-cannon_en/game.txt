@@ -1,0 +1,19 @@
+Title: Treasure Cannon
+
+Width: 700
+
+Height: 500
+
+Tags: Physics, Scoreboard, Puzzle, Skill, Shooting
+
+Description:
+Old Templar vaults are full of treasure, and you're out to get it all! Use your cannon to shoot and destroy treasure bricks, but be quick to collect the bonus coins that come out of them! Collect as many bonuses as possible, and be sure to hit all the red glowing bricks before your cannon balls run out!
+
+Instructions:
+Controls:
+Aiming - move the mouse cursor to adjust the angle and power of shot.
+Shooting - when you're happy with the shot, just click to fire!
+Collecting bonuses - move the mouse cursor over falling bonuses to catch them. No need to click!
+
+To unlock the next level you have to hit at least all the Primary Treasure Bricks (marked by a pulsing red glow).
+

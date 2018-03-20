@@ -1,0 +1,15 @@
+Title: Pixel Quest
+
+Width: 640
+
+Height: 530
+
+Tags: Puzzle, Platform, Fun, Scoreboard, Action, Arcade, Physics
+
+Description:
+Pixel Quest is a side-scrolling action puzzle with beautiful retro graphics and a great series of challenges. Rex, the main character, is a skilled and athletic adventurer deep in the jungle. Dash under falling spikes, jump from wall to wall, and keep Rex alive as he searches for the ultimate treasure!
+
+Instructions:
+Use WSAD or Arrow Keys to Move
+L or Z to Dash
+

@@ -1,0 +1,14 @@
+Title: Rock Paper Scissors Tournament
+
+Width: 670
+
+Height: 550
+
+Tags: Fun, Funny, Simple
+
+Description:
+How do you decide who does what in life? It's the old fashioned way that counts: Rock Paper Scissors, in a cartoon Japanese style! But how good are you at this game? Remember Rock beats Scissors, Paper beats Rock and Scissors beats Paper. Is it intuition or just good luck that will bring you victory? Rock, paper or scissors?
+
+Instructions:
+&amp;middot; &lt;b&gt;Select rock/paper/scissors&lt;/b&gt; - Use the mouse to click on the appropriate icon before the timer runs out.
+

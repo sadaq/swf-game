@@ -1,0 +1,16 @@
+Title: Wiggi World Rescue
+
+Width: 670
+
+Height: 517
+
+Tags: Bird, Arcade
+
+Description:
+In Wiggi World Rescue, the objective of the game is to stomp out fires and dodge the bird. Lots of things can happen to distract you so be careful! The world can start to spin round, the grass can spike up, an much more! Be sure to duck when the bird flies over your head! Do you have what it takes?!
+
+Instructions:
+&amp;middot; &lt;b&gt;Movements&lt;/b&gt; = Left or Right Arrow Keys
+&amp;middot; &lt;b&gt;Crouch&lt;/b&gt; = Down Arrow key
+&amp;middot; &lt;b&gt;Stopms The Flame&lt;/b&gt; = Space Bar
+

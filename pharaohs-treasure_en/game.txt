@@ -1,0 +1,14 @@
+Title: Pharaohs Treasure
+
+Width: 500
+
+Height: 400
+
+Tags: Shape, Puzzle, Matching
+
+Description:
+Pharaohs Treasure is a match making Puzzle Game. There are lots of tiles on the board. You have to find 4 tiles that are exactly the same and create a square or rectangle shape. The bigger the box your create the more points you will earn. Each levels gives you a target number of points in order to complete it. There is a time limit on each level. There are also 3 hints you can use if you get stuck.
+
+Instructions:
+&middot; Play This Game = Use Mouse (point and click)
+

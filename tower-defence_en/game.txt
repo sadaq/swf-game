@@ -1,0 +1,14 @@
+Title: Tower Defence
+
+Width: 650
+
+Height: 400
+
+Tags: Fighting, Defense, Medieval
+
+Description:
+Your main objective is to protect the Princess by defending her tower from the relentless onslaught of enemies. To do this you must pick the enemy soldiers up and throw them off either side of the screen. To activate a power simply select the corresponding icon located at the top left corner of the game screen.
+
+Instructions:
+&middot; Play This Game = Use Mouse (point and click)
+

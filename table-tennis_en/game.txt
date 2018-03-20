@@ -1,0 +1,14 @@
+Title: Table Tennis
+
+Width: 550
+
+Height: 450
+
+Tags: Ping Pong, Ball, Simulation, Sports
+
+Description:
+Pick up your Table Tennis paddle and get ready for some fast paced action as you train to be a pro on your desktop.You will be playing against a highly skilled computer controlled player that will keep your on your toes every step of the game. Lob, slam, spin and spike your way to victory, become the master of table tennis and take home the trophy in this fast-paced sports game.
+
+Instructions:
+&middot; Control The Paddle = Use Mouse
+

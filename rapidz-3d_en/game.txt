@@ -1,0 +1,14 @@
+Title: Rapidz 3D
+
+Width: 550
+
+Height: 400
+
+Tags: 3D, Maze, Missile, Arcade
+
+Description:
+In Rapidz 3D you are piloting a missile through a tunnel, all through the tunnel there are rotating obstacles flying towards you, try to guide your way through the holes that are cut out of the obstacles by quickly moving the mouse. The position of your mouse is the position of the missile in the tunnel. There are 9 levels in total.
+
+Instructions:
+&amp;middot; &lt;b&gt;Control The Missile&lt;/b&gt; = Use Mouse
+

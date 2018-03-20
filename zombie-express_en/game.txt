@@ -1,0 +1,15 @@
+Title: Zombie Express
+
+Width: 640
+
+Height: 530
+
+Tags: Driving, Simulation, Racing, Car
+
+Description:
+That dang-old zombie apocalypse is finally over! Unfortunately, we have a lot of zombies to get rid of! Stack the caged-up zombies onto your tractor trailer and take them away to the zombie zoo. Be careful not to speed too much or the zombies will fall off the back and start invading town again! Steep slopes and the unforgiving physics make this game a real challenge!
+
+Instructions:
+Use the mouse to click and drag the zombie crates to your truck.
+A and D to drive
+

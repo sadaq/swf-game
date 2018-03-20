@@ -1,0 +1,15 @@
+Title: Puzzle Cube
+
+Width: 670
+
+Height: 600
+
+Tags: Scoreboard, Puzzle, 3D, Classic
+
+Description:
+This is a puzzle game based on the Rubiks Cube. We've all seen it before and as hard as it may seem it's really fun to try to solve the cube based puzzle. The aim is to move all the colored pieces to their own respective sides. All the Blues on one side, the yellows on another etc. You can click and drag to rotate the cube and view the different sides, then click an individual row or column to rotate it. If you get stuck, you can restart whenever. 
+
+Instructions:
+&middot; Rotate cube - Click on the cube and drag in the direction you want it to rotate.
+&middot; Rotate row - Click on the edge of the row you wish to rotate.
+

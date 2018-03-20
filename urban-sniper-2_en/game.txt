@@ -1,0 +1,15 @@
+Title: Urban Sniper 2
+
+Width: 660
+
+Height: 480
+
+Tags: Shooting, Sniper, Stickman, Killing
+
+Description:
+In Urban Sniper 2, your mission is to Eliminate Don Pedrito and his goons, by following your instructions to kill specific targets, given to you by email. Keep an eye out for specific events to help you complete the level and remember to use the environment to your full advantage (stuff can be destroyed or blown up!). Have fun, and take out all those bad guys! The world will be a better place for it!
+
+Instructions:
+&amp;middot; &lt;b&gt;Shoot&lt;/b&gt; = Use Mouse (left click button)
+&amp;middot; &lt;b&gt;Zoom In /Out&lt;/b&gt; = Space Bar
+

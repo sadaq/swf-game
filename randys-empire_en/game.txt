@@ -1,0 +1,14 @@
+Title: Randy's Empire
+
+Width: 640
+
+Height: 480
+
+Tags: Gangster, Adventure
+
+Description:
+Randys Empire a game based on the life of a Gangster. At each step of the game you are given multiple choices, whatever you choose will happen in the game. Be is the right choice or wrong choice. The Story begins with Randy leaving prison and getting back to hi old villainous deeds. He wants to become the top dog of the criminal underworld. But his position is jeopardised when a bunch of thugs break into his headquarters and try to take him down. Help Randy escape their clutches and find out who's behind this attempted assasination!
+
+Instructions:
+Select an option - Use the mouse
+

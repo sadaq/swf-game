@@ -1,0 +1,16 @@
+Title: Wheelie King
+
+Width: 670
+
+Height: 600
+
+Tags: Balancing, BMX, Balance
+
+Description:
+Wheelie King is the ultimate wheelie endurance game! Keep your balance and manage your pace as you aim to perform the longest wheelie of all time! Endure humps and drops as you struggle against gravity. One false move and you'll be crashing into the ground! Lucky for you however, you have three lives at your disposal, so make the most of them!
+
+Instructions:
+Accelerate - Up arrow key.
+Decelerate - Down arrow key.
+Tilt left/right - Left/right arrow keys respectively.
+
